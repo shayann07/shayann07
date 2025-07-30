@@ -9,9 +9,10 @@
 -->
 
 <p align="center">
-  <!-- Redesigned banner: horizontal abstract illustration for Android/mobile development -->
-  <img src="banner.png" alt="Modern mobile development banner"
-       style="width:100%; max-height:250px; object-fit:cover; border-radius:12px;" />
+  <!-- Sleek banner: horizontal illustration blending mobile and network themes -->
+  <!-- Reduced height for a cleaner look; update the file name when replacing the image on GitHub -->
+  <img src="banner.png" alt="Modern mobile & network development banner"
+       style="width:100%; max-height:220px; object-fit:cover; border-radius:12px; margin-top:8px;" />
 </p>
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"> I'm Shayan Khan</h1>
@@ -82,28 +83,40 @@ I've gained experience across the full Android development lifecycle and like to
 
 
 ### 🌟 Projects &amp; Contributions
+I love building apps that solve real problems and contribute to my learning journey. To make it easier to discover my work, I've grouped my projects into featured highlights, collaborations and other samples.
 
-I love building apps that solve real problems and contribute to my learning journey. Below are some of my favourite projects—both personal and collaborative. Each bullet summarises what the project does and the key technologies involved:
+#### 🌟 Featured Projects
 
-- **Smart&nbsp;Ambulance&nbsp;(Flutter)** – A complete emergency‑response app built with Flutter. It supports separate user and driver roles, uses **Firebase Auth** and **Cloud&nbsp;Firestore** for secure sign‑in, and features real‑time location tracking and modern UI screens for managing ambulance dispatches. [View Repo](https://github.com/shayann07/smart-ambulance-flutter)
-- **Medicare&nbsp;App&nbsp;(Flutter)** – A comprehensive hospital and healthcare management system. It provides secure registration and login for patients, doctors and hospitals, integrates appointment booking and payment features, and stores health data in **Firebase**. [View Repo](https://github.com/shayann07/medicare_app_flutter)
-- **NoteStash** – A lightweight Android notes app that lets you capture ideas, to‑dos and reminders on the fly. Built with **Kotlin**, **MVVM**, and **Room** database, it supports quick note creation, deletion and reliable offline storage. [View Repo](https://github.com/shayann07/NoteStash)
-- **Contacts&nbsp;iOS‑26 UI** – An Android contacts manager inspired by the glassy iOS 26 aesthetic. It features pastel colours, smooth animations and intuitive navigation so you can add, browse and organise contacts with ease. [View Repo](https://github.com/shayann07/Contacts-iOS-26-ui)
-- **BookWiz** – An Android app that lets you search and browse books using the **Google&nbsp;Books API**. Enjoy a fast, intuitive interface for finding titles, authors and best sellers, complete with book details and cover art. [View Repo](https://github.com/shayann07/BookWiz)
-- **NovaAI** – Chat on your phone with an AI assistant powered by the **Together API** and **OpenRouter**. The app supports natural, conversational interactions with typing animations and maintains your conversation context for a seamless experience. [View Repo](https://github.com/shayann07/NovaAI)
-- **Genwise** – A fun, simple app that tells you which generation you belong to based on your birth year. Enter your age and instantly discover whether you're Gen Z, millennial, Gen X or beyond! [View Repo](https://github.com/shayann07/Genwise)
-- **Learnify** – A learning‑management prototype built in **Kotlin** that offers interactive lessons and quizzes. It features modular course content and tracks your progress locally. [View Repo](https://github.com/shayann07/Learnify)
-- **ExpenseTracker** – A web‑based tracker for managing daily expenses. Organise spending categories, record transactions and view your spending patterns over time using simple HTML/CSS/JS. [View Repo](https://github.com/shayann07/ExpenseTracker)
-- **Ai&nbsp;Trust&nbsp;Ledger Cloud&nbsp;Functions** – Collaborative project providing serverless backend functions for the AI&nbsp;Trust Ledger app. Written in **JavaScript**, these **Cloud Functions** handle authentication, data processing and secure ledger operations. [View Repo](https://github.com/shayann07/Ai-Trust-Ledger-Cloud-Functions)
-- **bitBloom Cloud Functions** – Another collaboration delivering the backend logic for the bitBloom app. It includes all the **Firebase Cloud Functions** used to manage data and business logic in the bitBloom ecosystem. [View Repo](https://github.com/shayann07/bitBloom-Cloud-Functions)
-- **To‑Do List Offline** – A Kotlin clone of the iOS Reminders app that works fully offline. It uses **Room** database and provides task creation, completion and reminders with a clean Material design. [View Repo](https://github.com/shayann07/to-do-list-offline)
-- **ClothPedia** – A web platform to educate users about different clothing types, seasonal fashion and cultural attire. It features categorised collections, FAQs and a contact section. [View Repo](https://github.com/shayann07/ClothPedia)
-- **Blogger App** – An MVP‑pattern blog application demonstrating CRUD operations, SQLite storage and Android's share intent for seamless post sharing. [View Repo](https://github.com/shayann07/Blogger)
-- **Employee Management System** – A basic Java application to manage employees with full CRUD operations—add, update and remove employee records in a user‑friendly interface. [View Repo](https://github.com/shayann07/Employee-Management-System)
-- **MVVM Implementation** – A minimal example of how to structure an Android app using the **Model‑View‑ViewModel** pattern with **LiveData** and **ViewModel**, demonstrating clear separation of concerns. [View Repo](https://github.com/shayann07/MVVM-implementation)
-- **API Implementation (Volley)** – A sample project showing how to implement login and sign‑up endpoints using the **Volley** networking library with proper error handling and UI feedback. [View Repo](https://github.com/shayann07/Api-implementation-volley)
-- **Playback Master &amp; Proximity** – Two multimedia player experiments: a classic **Java** music player supporting background playback and playlists, and a **Kotlin**-based version that uses proximity sensor gestures to control playback. [Playback Master](https://github.com/shayann07/Playback-Master) • [Proximity Version](https://github.com/shayann07/Playback-Master-Proximity)
-- **Jetpack Compose Codelabs** – Implementations of Google's Jetpack Compose codelabs covering basic layouts and component usage. Great for exploring modern declarative UI patterns. [CodeLab 1](https://github.com/shayann07/Compose-BasicCodeLab) • [CodeLab 2](https://github.com/shayann07/Compose-BasicLayoutsCodelab)
+- **Smart&nbsp;Ambulance (Flutter)** — Complete emergency‑response app built with Flutter. It supports separate user and driver roles, uses **Firebase Auth** and **Cloud Firestore** for secure sign‑in and cloud data, and features real‑time location tracking and intuitive dashboards to dispatch ambulances quickly. [View repo »](https://github.com/shayann07/smart-ambulance-flutter)
+- **AI&nbsp;Trust Ledger** — A decentralised investment platform that lets users deposit, withdraw and earn ROI with a multi‑level referral system. Built in **Kotlin** using **Cloud Firestore**, **Auth** and **Cloud Functions**, it also includes in‑app chat and a responsive investor dashboard【694390277955341†L20-L45】. [View repo »](https://github.com/shayann07/Ai-Trust-Ledger)
+- **bitBloom** — A smart wallet platform originally built with Flutter and later ported to native Android. It supports secure deposits & withdrawals, real‑time cryptocurrency rates via the **CoinPayments API** and streamlined onboarding for new users【694390277955341†L20-L45】. [View repo »](https://github.com/shayann07/bitbloom)
+- **Playback Master** — An innovative media player that integrates **Arduino** and **ESP32** sensors for IoT‑driven playback control. Written in **Kotlin**, it features proximity gestures and custom playlist management, showcasing my curiosity for hardware integration【694390277955341†L74-L80】. [View repo »](https://github.com/shayann07/Playback-Master)
+- **Medicare App (Flutter)** — A comprehensive healthcare management system that provides secure registration and login for patients, doctors and hospitals, integrates appointment booking & payments and stores health data securely in **Firebase**. [View repo »](https://github.com/shayann07/medicare_app_flutter)
+- **NoteStash** — A lightweight Android notes app that lets you capture ideas, to‑dos and reminders on the fly. Built with **Kotlin**, **MVVM** and **Room** database, it supports quick note creation, deletion and reliable offline storage. [View repo »](https://github.com/shayann07/NoteStash)
+
+#### 🤝 Collaborative Projects
+
+- **AI Trust Ledger Cloud Functions** — Serverless backend functions written in **JavaScript** that handle authentication, referral commission calculations and ledger operations for the AI Trust Ledger app. [View repo »](https://github.com/shayann07/Ai-Trust-Ledger-Cloud-Functions)
+- **bitBloom Cloud Functions** — Firebase Cloud Functions powering the backend logic for the bitBloom wallet ecosystem—secure data processing, transaction management and business rules. [View repo »](https://github.com/shayann07/bitBloom-Cloud-Functions)
+
+#### 📚 Other Projects & Samples
+
+Besides my flagship apps, I enjoy experimenting with frameworks and sharing sample projects. Here's a selection:
+
+- **To‑Do List Offline** — A Kotlin clone of the iOS Reminders app, working fully offline using **Room** database, with a clean Material design and local notifications. [Repo](https://github.com/shayann07/to-do-list-offline)
+- **Contacts iOS‑26 UI** — Android contacts manager inspired by the glassy iOS 26 aesthetic with pastel colours and smooth animations. [Repo](https://github.com/shayann07/Contacts-iOS-26-ui)
+- **BookWiz** — Search and browse books via the **Google Books API**; includes book details and cover art. [Repo](https://github.com/shayann07/BookWiz)
+- **NovaAI** — Mobile chat app powered by the **Together API** and **OpenRouter**, featuring natural conversation flows and typing animations. [Repo](https://github.com/shayann07/NovaAI)
+- **Genwise** — Discover your generational cohort (Gen Z, millennial, Gen X, etc.) based on your birth year. [Repo](https://github.com/shayann07/Genwise)
+- **Learnify** — Interactive learning‑management prototype with modular courses, lessons and quizzes built in **Kotlin**. [Repo](https://github.com/shayann07/Learnify)
+- **ExpenseTracker** — Simple HTML/CSS/JS tracker for managing daily expenses and visualising spending patterns. [Repo](https://github.com/shayann07/ExpenseTracker)
+- **ClothPedia** — Web platform offering information about clothing types, seasonal fashion and cultural attire. [Repo](https://github.com/shayann07/ClothPedia)
+- **Blogger App** — Blog application following the MVP pattern with SQLite storage and Android share intent. [Repo](https://github.com/shayann07/Blogger)
+- **Employee Management System** — A basic Java app to add, update and remove employee records with a simple UI. [Repo](https://github.com/shayann07/Employee-Management-System)
+- **MVVM Implementation** — Minimal example of the Model‑View‑ViewModel pattern using **LiveData** and **ViewModel**. [Repo](https://github.com/shayann07/MVVM-implementation)
+- **API Implementation (Volley)** — Demonstrates login and sign‑up endpoints using the **Volley** networking library. [Repo](https://github.com/shayann07/Api-implementation-volley)
+- **Playback Master Proximity** — A twist on Playback Master using proximity sensor gestures for playback control. [Repo](https://github.com/shayann07/Playback-Master-Proximity)
+- **Jetpack Compose Codelabs** — Implementations of Google's codelabs for exploring modern declarative UI patterns. [Layouts](https://github.com/shayann07/Compose-BasicLayoutsCodelab) • [Components](https://github.com/shayann07/Compose-BasicCodeLab)
 
 ### 🏆 Awards &amp; Stats
 
@@ -120,17 +133,16 @@ I love building apps that solve real problems and contribute to my learning jour
 
 ### 📫 Connect with Me
 
-Want to chat about mobile development or collaborate on a project? Feel free to get in touch via any of the channels below:
+Want to chat about mobile development, discuss an idea or collaborate on a project? Feel free to reach out through any of the channels below:
 
-- 📧 **Email:** [`your.email@example.com`](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [`linkedin.com/in/your-profile`](https://linkedin.com/in/your-profile)
-- 🐦 **Twitter:** [`@your-handle`](https://twitter.com/your-handle)
+- 📧 **Email:** [`shayankhan17353@gmail.com`](mailto:shayankhan17353@gmail.com)
+- 💼 **LinkedIn:** [`linkedin.com/in/shayan-khan-285b16190`](https://www.linkedin.com/in/shayan-khan-285b16190)
+- 🐦 **Twitter:** [`@shayann07`](https://twitter.com/shayann07)
 
 <p>
-  <!-- Social badges for a splash of colour; update the links with your real profiles -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/your-handle" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/shayann07" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" /></a>
 </p>
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." – **Harold&nbsp;Abelson**
