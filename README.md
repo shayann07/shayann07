@@ -31,8 +31,8 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 </p>
 
 <p align="center">
-  <a href="https://github-readme-streak-stats.vercel.app/?user=shayann07&theme=tokyonight">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=shayann07&theme=tokyonight"
+  <a href="https://github-readme-streak-stats-eight-chi.vercel.app/?user=shayann07&theme=tokyonight">
+    <img src="https://github-readme-streak-stats-eight-chi.vercel.app/?user=shayann07&theme=tokyonight"
          alt="GitHub Streak"/>
   </a>
 </p>
