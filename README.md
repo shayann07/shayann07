@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=850&lines=Android+Dev+·+Flutter+Fanatic+·+Edge‑AI+Explorer;Clean+Architecture+Evangelist;Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Android+Dev+·+Flutter+Fanatic+·+Edge‑AI+Explorer;Jetpack+Compose+Aficionado;Open+Source+Contributor"/>
 </p>
 
 <p align="center" style="color:#c9d1d9;font-size:15px;">I craft fast, delightful mobile products with Kotlin, Dart & a pinch of on‑device AI.</p>
@@ -35,9 +35,9 @@
 ## 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,compose,java,firebase,supabase,graphql"/><br/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,graphql,supabase"/><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,git,githubactions,docker,linux,postgres,sqlite"/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,aws,gcp,jetbrains"/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,aws,gcp"/>
 </p>
 
 ---
