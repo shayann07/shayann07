@@ -27,7 +27,6 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight" alt="Shayan's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## 🛠 Languages & Tools
