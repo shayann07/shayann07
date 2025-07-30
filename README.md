@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="hero_banner.png" alt="Hero Banner" style="border-radius:12px; width:100%; max-width:100%;" />
-</p>
-
 <h1 align="center">Hi, I'm Shayan Khan 👋</h1>
 
 <p align="center">
@@ -12,6 +8,11 @@
   <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge" alt="Followers"/></a>
   <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-28-success?style=for-the-badge" alt="Public Repositories"/></a>
   <a href="mailto:shayann07@gmail.com"><img src="https://img.shields.io/badge/Email-me-informational?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+<!-- Hero banner moved below the intro section for better mobile layout -->
+<p align="center">
+  <img src="hero_banner.png" alt="Hero Banner" style="border-radius:12px; width:100%; max-width:100%;" />
 </p>
 
 ## About Me
@@ -27,7 +28,11 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Use a reliable domain for streak stats to ensure mobile compatibility -->
+  <img src="https://streak-stats.demolab.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## Languages & Tools
@@ -95,14 +100,18 @@ Check out more on my [GitHub profile](https://github.com/shayann07?tab=repositor
 
 ## Education & Training
 
-- **Bachelor of Science in Software Engineering** – University of Sargodha *(2020 – 2024)*
+My educational journey combines a formal degree program with targeted professional training:
+
+- **Android Development — Enfotrix (June 2024)**  
+  Completed a hands‑on Android development program in Sargodha, Pakistan that honed skills in UI/UX design, API integration, Firebase/Room database management, performance optimization, debugging and version control with Git.
+- **BS Software Engineering — University of Sargodha (2022 – Present)**  
+  Currently pursuing a Bachelor of Science degree focusing on software fundamentals, requirement analysis, design & architecture, quality engineering and project management. This program lays a solid foundation for building maintainable, high‑quality software.
 
 ## Certifications
 
-- **Machine Learning with Python** – IBM
-- **Data Science** – IBM
-- **English Language Proficiency** – Cambridge University Press & Assessment
-- **Google Asia Android Scholarship (Kotlin)** – Google Developers & Pluralsight
+In addition to formal education, I’ve undertaken specialised training to deepen my expertise:
+
+- **Android Development Certification** – Enfotrix *(June 2024)*
 
 ## Let's Connect
 
