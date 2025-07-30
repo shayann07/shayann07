@@ -27,6 +27,7 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## Languages & Tools
@@ -61,13 +62,11 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 | **[ExpenseTracker](https://github.com/shayann07/ExpenseTracker)** | Track your expenses & income with categories, budget goals and insightful charts | Kotlin, MVVM, Room, Compose |
 | **[NovaAI](https://github.com/shayann07/NovaAI)** | AI chatbot using Together API & OpenRouter with typing animation and conversation history | Kotlin, MVVM, Retrofit |
 | **[GenWise](https://github.com/shayann07/Genwise)** | Calculate generation/voltage drop for 3‑phase systems with a simple form and results summary | Kotlin, Android |
-
-### Collaborative Projects
-
-- **[AI Trust Ledger](https://github.com/shayann07/AI-trust-ledger)** – A decentralised investment platform built with Kotlin using Cloud Firestore, Firebase Auth and Cloud Functions; includes in‑app chat and a responsive dashboard.
-- **[BitBloom](https://github.com/shayann07/bitbloom)** – A smart valet platform ported from Flutter to Android. It supports secure deposits & withdrawals, real-time crypto payments via CoinPayments API and staking for new users.
-- **[Medicare App (Flutter)](https://github.com/shayann07/medicare_app_flutter)** – Comprehensive healthcare management with secure registration & login for patients, doctors & hospitals, appointment booking, payments, online pharmacy and chatbot assistant.
-- **[Smart Ambulance (Flutter)](https://github.com/shayann07/smart-ambulance-flutter)** – Role-based ambulance management app with real-time location tracking, Google Maps integration and Firebase Messaging for drivers and ambulances.
+| **[AI Trust Ledger](https://github.com/shayann07/AI-trust-ledger)** | A decentralised investment platform built with Kotlin using Cloud Firestore, Firebase Auth and Cloud Functions; includes in‑app chat and a responsive dashboard | Kotlin, Cloud Firestore, Firebase Auth |
+| **[BitBloom](https://github.com/shayann07/bitbloom)** | A smart valet platform ported from Flutter to Android. It supports secure deposits & withdrawals, real‑time crypto payments via CoinPayments API and staking for new users | Kotlin, Android, CoinPayments API |
+| **[Medicare App (Flutter)](https://github.com/shayann07/medicare_app_flutter)** | Comprehensive healthcare management with secure registration & login for patients, doctors & hospitals, appointment booking, payments, online pharmacy and chatbot assistant | Flutter, Firebase, MVVM |
+| **[Smart Ambulance (Flutter)](https://github.com/shayann07/smart-ambulance-flutter)** | Role‑based ambulance management app with real‑time location tracking, Google Maps integration and Firebase Messaging for drivers and ambulances | Flutter, Google Maps, Firebase Messaging |
+| **[Employee Management System](https://github.com/shayann07/Employee-Management-System)** | Manage employees, departments & roles with CRUD operations, search/filter and responsive UI | Kotlin, MVVM, Room |
 
 ### Other Projects & Samples
 
