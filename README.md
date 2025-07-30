@@ -27,7 +27,7 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight" alt="Shayan's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## 🛠 Languages & Tools
@@ -107,18 +107,8 @@ Check out more on my [GitHub profile](https://github.com/shayann07?tab=repositor
 - **English Language Proficiency** – Cambridge University Press & Assessment
 - **Google Asia Android Scholarship (Kotlin)** – Google Developers & Pluralsight
 
-## 🏆 Awards & Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=github&no-frame=true&column=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=github&langs_count=8" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=github" alt="GitHub Stats"/>
-</p>
-
 ## 🤝 Let's Connect
+
 
 <p align="center">
   <a href="mailto:shayann07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white" /></a>
