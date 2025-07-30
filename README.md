@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" style="border-radius:12px; width:100%; max-width:100%;"/>
+  <img src="hero_banner.png" alt="Banner" style="border-radius:12px; width:100%; max-width:100%;"/>
 </p>
 
 <h1 align="center">Hey there, I'm Shayan Khan 👋</h1>
