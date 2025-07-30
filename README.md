@@ -17,9 +17,18 @@
 
 I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passion for building fast, reliable and user‑friendly apps. I specialize in **MVVM architecture**, Jetpack components and **Material Design**. I enjoy turning ideas into polished apps—whether it's secure authentication, real‑time sync or offline caching. I'm always eager to explore new technologies and design patterns.
 
-- 🌱 Currently building cross‑platform apps with **Kotlin** & **Flutter**.
-- 🛠️ Love working with **Firebase**, Room/SQLite and third‑party APIs.
-- ✨ Always up for a challenge—let's collaborate!
+- 💡 Currently crafting cross-platform apps with **Kotlin** & **Flutter**.
+- 🔗 Experienced with **RESTful** & **GraphQL** APIs and modern architectures.
+- 🎨 Passionate about delivering delightful UI/UX and tackling complex problems.
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight" alt="Shayan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ## 🛠 Languages & Tools
 
