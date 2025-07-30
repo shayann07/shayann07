@@ -31,8 +31,10 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 </p>
 
 <p align="center">
-  <!-- Use a reliable domain for streak stats to ensure mobile compatibility -->
-  <img src="https://streak-stats.demolab.com/?user=shayann07&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github-readme-streak-stats.vercel.app/?user=shayann07&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=shayann07&theme=tokyonight"
+         alt="GitHub Streak"/>
+  </a>
 </p>
 
 ## Languages & Tools
