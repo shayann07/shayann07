@@ -9,7 +9,9 @@
 -->
 
 <p align="center">
-  <img src="banner.png" alt="Illustration of mobile development" />
+  <!-- Redesigned banner: horizontal abstract illustration for Android/mobile development -->
+  <img src="banner.png" alt="Modern mobile development banner"
+       style="width:100%; max-height:250px; object-fit:cover; border-radius:12px;" />
 </p>
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"> I'm Shayan Khan</h1>
@@ -31,8 +33,9 @@
 ---
 
 ### 🚀 About Me
-
-I’m an Android and Flutter developer currently focused on building robust and user‑friendly mobile apps using **Kotlin**, **Java**, and **Flutter**. I love exploring new architectures such as **MVVM** and **Jetpack Compose** to craft efficient UI and maintainable codebases. When I'm not coding, you'll find me reading about system design, experimenting with new technologies, or contributing to open source projects. Feel free to ask me about Android development, API integration, or anything related to mobile app design.
+I’m an Android developer with a **proven track record of building fast, reliable apps** using **MVVM**, Jetpack components and Material Design【694390277955341†L1-L8】.  
+Expert in **Kotlin**, **Java**, **Firebase** and modern UI/UX, I turn ideas into robust Android apps—whether they’re real‑time, complex or business‑critical. Currently, I’m delivering scalable mobile apps where I **engineer secure authentication, real‑time sync and local caching** using Firebase Auth, Firestore and Room【694390277955341†L14-L18】.  
+I love exploring new architectures such as Jetpack Compose, studying system design and contributing to open source projects. Feel free to ask me about Android development, API integration or anything related to mobile app design.
 
 ### 🛠️ Languages &amp; Tools
 
@@ -49,12 +52,33 @@ I’m an Android and Flutter developer currently focused on building robust and 
 
 ### 💼 Tech&nbsp;Stack
 
-I've gained experience across the full Android development lifecycle and like to organize my skillset by category. Here's a high‑level overview of my tech stack:
+I've gained experience across the full Android development lifecycle and like to organize my skillset by category. Here's a high‑level overview of my tech stack and skills:
 
-- **Languages &amp; Frameworks:** Kotlin · Java · Dart · Flutter · Jetpack Compose · Material&nbsp;Design
-- **Architecture &amp; Patterns:** MVVM · Clean Architecture · Jetpack&nbsp;Compose · Jetpack Libraries
-- **Backend &amp; Services:** Firebase Auth &amp; Firestore · RESTful APIs · SQLite · Cloud Messaging
-- **Tools &amp; DevOps:** Git · GitHub Actions · Android Studio · Postman · CI/CD
+- **Languages &amp; Frameworks:** Kotlin · Java · Dart · Flutter · Jetpack Compose · XML · SQL · Material Design
+- **Architecture &amp; Patterns:** MVVM · Clean Architecture · Jetpack Libraries · Android SDK · Android Jetpack Components
+- **Databases &amp; Services:** Firebase Realtime Database · Cloud Firestore · Firebase Authentication · Room · SQLite · RESTful APIs · Google Maps · Push Notifications
+- **Tools &amp; DevOps:** Android Studio · Git · GitHub · GitHub Actions · Postman · Figma · CI/CD
+
+### 🧑‍💻 Work Experience
+
+- **Android Developer — June 2024 – Present (Sargodha, Pakistan)**  
+  • Delivered scalable Android apps with intuitive UX and robust performance【694390277955341†L14-L18】.  
+  • Engineered secure authentication, real‑time synchronisation and local caching using **Firebase Auth**, **Firestore** and **Room**【694390277955341†L14-L18】.  
+  • Built responsive UIs with Coroutines, LiveData and ViewModel, and practiced modern Git workflows and agile collaboration【694390277955341†L14-L18】.
+
+### 🎓 Education &amp; Training
+
+- **BS Software Engineering — University of Sargodha** (2022–present)  
+  Pursuing a Bachelor of Science in Software Engineering, studying software fundamentals, requirement analysis, design &amp; architecture, quality engineering and project management, giving me a solid foundation for building maintainable software【694390277955341†L92-L100】.  
+- **Android Development Bootcamp — Enfotrix** (June 2024)  
+  Completed a 16‑week bootcamp covering UI/UX design, API integration, Firebase &amp; Room databases, performance optimisation, debugging and version control【694390277955341†L83-L91】.  
+- **CCNA 200‑301 Network Fundamentals** (Nov 19 2024)  
+  Completed an online course on network fundamentals and routing (certificate code 7577267)【795649554123373†L0-L3】.
+
+### 📜 Certifications
+
+- **Android Development (Enfotrix Bootcamp)** — A 16‑week training program from 6 Sep to 12 Dec recognising outstanding performance【460043971419424†L0-L4】.
+- **CCNA 200‑301 Network Fundamentals** — Issued on 19 Nov 2024 (certificate code 7577267)【795649554123373†L0-L3】.
 
 
 ### 🌟 Projects &amp; Contributions
