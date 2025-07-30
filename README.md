@@ -75,7 +75,6 @@ I'm an **Android & Flutter developer** from **Sargodha, Pakistan** with a passio
 - **[BookWiz](https://github.com/shayann07/BookWiz)** – Search and browse books via the Google Books API including book details and cover art.
 - **[NoteStash](https://github.com/shayann07/NoteStash)** – Lightweight note-taking app with quick note creation, editing, deletion and reliable offline storage using MVVM & Room.
 - **[Blogger App](https://github.com/shayann07/Blogger-App)** – Blogging app connecting to the Blogger API enabling users to browse, read and publish blog posts.
-- **[Employee Management System](https://github.com/shayann07/Employee-Management-System)** – Manage employees, departments & roles with CRUD operations, search/filter and responsive UI.
 - **[MVVM Implementation](https://github.com/shayann07/MVVM-implementation)** – Sample app demonstrating MVVM architecture using Kotlin, LiveData, ViewModel, Room, Coroutines & Flow.
 - **[Playback Master](https://github.com/shayann07/Playback-Master)** – Innovative media player built for Raspberry Pi & ESP32 sensors for IoT-driven playback control, showcasing interest in hardware integration.
 - **[Playback Master Proximity](https://github.com/shayann07/Playback-Master-Proximity)** – Android app that uses the device’s proximity sensor to pause/resume video playback with modern UI design.
