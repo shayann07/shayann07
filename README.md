@@ -15,8 +15,8 @@
 <p align="center" style="display:flex;gap:6px;flex-wrap:wrap;justify-content:center;">
   <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=ff79c6"/></a>
   <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-28-50fa7b?style=for-the-badge"/></a>
-  <a href="mailto:shayann07@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shayann07"><img src="https://img.shields.io/badge/LinkedIn-Connect-b45cf6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-b45cf6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
