@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shayann07&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shayann07&theme=tokyonight" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=onestar&column=8&margin-w=5&margin-h=5"/>
@@ -90,12 +90,13 @@
 ## ☕ Ping Me
 
 <p align="center">
-  <a href="mailto:shayann07@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shayann07"><img src="https://img.shields.io/badge/LinkedIn-Say%20Hi-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/shayann07"><img src="https://img.shields.io/badge/Twitter-Follow-50fa7b?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Say%20Hi-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ=="><img src="https://img.shields.io/badge/Instagram-Follow-50fa7b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <blockquote align="center" style="color:#8be9fd;">“First, solve the problem. Then, write the code.” — John Johnson</blockquote>
+
 
 <!-- 🌌 Footer Nebula -->
 
