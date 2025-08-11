@@ -45,12 +45,13 @@
 ## 📈 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&hide_border=true"  height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shayann07&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=onestar&column=8&margin-w=5&margin-h=5"/>
 </p>
