@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Shayan%20Khan&fontColor=ffffff&fontSize=48&animation=twinkling" width="100%"/>
 </p>
-
+<!-- commit 1 -->
+<!-- commit 2 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Android+Dev+·+Flutter+Fanatic+·+Edge‑AI+Explorer;Jetpack+Compose+Aficionado;Open+Source+Contributor"/>
 </p>
@@ -101,8 +102,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,100:302b63&section=footer" width="100%"/>
   
 </p>
-
-
-
-<!-- commit 1 -->
-<!-- commit 2 -->
