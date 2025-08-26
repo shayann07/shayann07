@@ -52,10 +52,6 @@
   <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=onestar&column=8&margin-w=5&margin-h=5"/>
-</p>
-
 ---
 
 ## 🚀 Featured Launches
