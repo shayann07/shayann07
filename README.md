@@ -6,6 +6,7 @@
 <!-- commit 1 -->
 <!-- commit 2 --><!-- commit 1 -->
 <!-- commit 2 --><!-- commit 1 -->
+<!-- commit 2 --><!-- commit 1 -->
 <!-- commit 2 -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Android+Dev+·+Flutter+Fanatic+·+Edge‑AI+Explorer;Jetpack+Compose+Aficionado;Open+Source+Contributor"/>
