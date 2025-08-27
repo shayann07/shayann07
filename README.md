@@ -5,33 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Android+Dev+·+Flutter+Fanatic+·+Edge-AI+Explorer;Jetpack+Compose+Aficionado;Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=750&lines=Android+Dev+·+Flutter+Fanatic+·+Edge‑AI+Explorer;Jetpack+Compose+Aficionado;Open+Source+Contributor"/>
 </p>
 
-<p align="center" style="color:#c9d1d9;font-size:15px;">I craft fast, delightful mobile products with Kotlin, Dart & a pinch of on-device AI.</p>
+<p align="center" style="color:#c9d1d9;font-size:15px;">I craft fast, delightful mobile products with Kotlin, Dart & a pinch of on‑device AI.</p>
 
 <!-- 🔗 Neon Badges -->
 
 <p align="center" style="display:flex;gap:6px;flex-wrap:wrap;justify-content:center;">
-  <!-- Followers -->
-  <a href="https://github.com/shayann07?tab=followers">
-    <img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=ff79c6"/>
-  </a>
-
-  <!-- Public Repos (dynamic via GitHub API) -->
-  <a href="https://github.com/shayann07?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=50fa7b"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:shayankhan17353@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-b45cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=ff79c6"/></a>
+  <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-28-50fa7b?style=for-the-badge"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-b45cf6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -40,9 +25,9 @@
 
 | 🛠 Stack                      | 🚀 Focus                         |
 | ----------------------------- | -------------------------------- |
-| Kotlin · Compose · Flutter 3  | Cross-platform UI & Material 3   |
-| ML Kit · TFLite · MediaPipe   | Real-time on-device intelligence |
-| Supabase · Firebase · GraphQL | Serverless & real-time backends  |
+| Kotlin · Compose · Flutter 3  | Cross‑platform UI & Material 3   |
+| ML Kit · TFLite · MediaPipe   | Real‑time on‑device intelligence |
+| Supabase · Firebase · GraphQL | Serverless & real‑time backends  |
 | GitHub Actions · Fastlane     | Automated CI/CD pipelines        |
 
 ---
@@ -60,16 +45,11 @@
 ## 📈 GitHub Dashboard
 
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&hide_border=true&cache_seconds=1800&v=1" height="170"/>
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800&v=1" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&hide_border=true"  height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170"/>
 </p>
-
 <p align="center">
-  <!-- Streak stats (official endpoint, shorter cache) -->
-  <img src="https://streak-stats.demolab.com?user=shayann07&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" height="170"/>
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 ---
@@ -82,13 +62,13 @@
 | ⭐ Project           | Wow Factor                       | Stack                     |
 | ------------------- | -------------------------------- | ------------------------- |
 | **Learnify**        | Offline courses + quizzes        | Kotlin · Firebase         |
-| **ExpenseTracker**  | Biometric-secured budgeting      | Compose · Room            |
+| **ExpenseTracker**  | Biometric‑secured budgeting      | Compose · Room            |
 | **NovaAI**          | Streaming AI chat & Markdown     | Kotlin · Retrofit         |
 | **AI Trust Ledger** | Decentralised investments ledger | Kotlin · Cloud Functions  |
 | **BitBloom**        | Crypto valet & staking           | Kotlin · CoinPayments API |
 | **Smart Ambulance** | Live emergency dispatch          | Flutter · Firebase        |
-| **Medicare**        | Tele-health & pharmacy           | Flutter · Firebase        |
-| **GenWise**         | 3-phase load calculator          | Kotlin · Compose          |
+| **Medicare**        | Tele‑health & pharmacy           | Flutter · Firebase        |
+| **GenWise**         | 3‑phase load calculator          | Kotlin · Compose          |
 
 </details>
 
@@ -98,7 +78,7 @@
 
 | Year           | Milestone                                              |
 | -------------- | ------------------------------------------------------ |
-| 2022 → present | **B.S. Software Engineering** — University of Sargodha |
+| 2022 → present | **B.S. Software Engineering** — University of Sargodha |
 | 2024           | **Android Dev Bootcamp** — Enfotrix                    |
 | 2025\*         | **Google Android Basics Nanodegree** *(ongoing)*       |
 
@@ -113,6 +93,7 @@
 </p>
 
 <blockquote align="center" style="color:#8be9fd;">“First, solve the problem. Then, write the code.” — John Johnson</blockquote>
+
 
 <!-- 🌌 Footer Nebula -->
 
