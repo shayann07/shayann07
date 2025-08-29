@@ -1,4 +1,4 @@
-<!-- 🌌 Midnight Gradient Header -->
+<!-- 🌌 Midnight Gradient Header Portfolio -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Shayan%20Khan&fontColor=ffffff&fontSize=48&animation=twinkling" width="100%"/>
