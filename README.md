@@ -231,22 +231,18 @@ val dailyDriver = TechStack(
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayann07&theme=tokyonight" width="46%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayann07&theme=tokyonight" width="46%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayann07&theme=tokyonight" width="44%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayann07&theme=tokyonight" width="44%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true" width="46%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayann07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="46%"/>
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="92%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="90%"/>
 </p>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
