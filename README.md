@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+Engineer+%7C+Flutter+Builder+%7C+Edge-AI+on+Mobile;Jetpack+Compose+%E2%80%A2+Material+3+%E2%80%A2+Kotlin+Coroutines;I+ship+production-ready+apps%2C+not+just+todo+lists."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer+%7C+FinTech+%26+HealthTech+Builder;Edge+ML+%2B+Crypto+%2B+EdTech+%2B+Productivity+Pro;I+ship+full-scale+apps%E2%80%94not+just+tutorials."/>
 </p>
 
 <p align="center" style="color:#c9d1d9;font-size:15px;">
-  I design and ship fast, offline-ready mobile products with Kotlin, Compose, Flutter and on-device ML — opinionated UX, clean architecture, no tutorial fluff.
+  Based in Pakistan (UTC+5) — I create production-ready Android & Flutter products across finance, healthcare, ag-tech, education, and productivity.  Expect clean architecture, privacy‑first logic, on‑device AI, and opinionated UX.
 </p>
 
 <!-- 🔗 Social & Meta -->
@@ -18,116 +18,120 @@
   <a href="https://github.com/shayann07?tab=followers">
     <img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=ff79c6"/>
   </a>
-
   <a href="https://github.com/shayann07?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=50fa7b"/>
   </a>
-
   <a href="mailto:shayankhan17353@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Say%20Hi-8be9fd?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/shayan-khan-285b16190">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-b45cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ==">
     <img src="https://img.shields.io/badge/Instagram-Follow-ffb86c?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=shayann07&style=for-the-badge&label=Profile%20Views&color=6272a4" />
 </p>
 
 ---
 
-## ⚡ TL;DR (for busy humans)
+## ⚡ TL;DR
 
-- 📱 **Android-first engineer** (Compose, Material 3, Kotlin coroutines, Room, Retrofit).
-- 🧠 Strong interest in **on-device AI / Edge ML** (TFLite, ML Kit, MediaPipe) for real-time, private features.
-- 🐦 **Flutter** when cross-platform actually makes sense (not because it’s trendy).
-- 🌐 Build **offline-first, latency-aware, privacy-conscious** mobile products.
-- 🤝 Open to **remote roles, freelance work, and collabs** around Android / Flutter / AI-native apps.
+- 🎯 **Multi‑vertical mobile engineer** — FinTech, HealthTech, EdTech, Ag‑Tech, AI tools, productivity apps, and dev utilities.
+- 📱 **Android‑first** (Compose, M3, Kotlin Coroutines & Flow); **Flutter** where cross‑platform matters.
+- 🧠 **On‑device AI**: Leaf and disease diagnosis (LeafBloom), lung X‑ray scanning (PneumoScan), chat assistant (NovaAI).
+- 💸 **FinTech & Crypto**: AI Trust Ledger (team‑credit system), BitBloom (crypto staking), Philippine Stock Exchange suite.
+- 🏥 **Health & Agri**: Tele‑health & pharmacy (Medicare), live ambulance dispatch (Smart Ambulance), tomato leaf diagnosis (LeafBloom).
+- 📚 **Ed & Productivity**: Learnify (offline courses), ExpenseTracker, NoteStash, BookWiz, GenWise, to‑do lists.
+- 🛠 **Utilities & Tools**: GitPulse (GitHub activity booster), MVVM & Volley codebases, Compose codelabs, Node/Firebase cloud functions.
+- 🌍 **Bilingual & regional support**: Projects like LeafBloom are fully localised (English/Urdu RTL) and offline‑ready — because 5G isn’t everywhere.
 
 ---
 
 ## 🧭 2025 Focus
 
-> What I’m deliberately investing time and energy into right now.
-
-| Area                        | What I actually use it for                             |
-| --------------------------- | ------------------------------------------------------ |
-| **Jetpack Compose + M3**    | Modern UI, theming, dark mode, responsive layouts     |
-| **Kotlin · Coroutines · Flow** | Clean async, streams, background work                  |
-| **Flutter 3**               | Cross-platform prototypes & production-lite products  |
-| **TFLite · ML Kit · MediaPipe** | On-device intelligence, recognition, smart UX           |
-| **Firebase · Supabase · GraphQL** | Auth, sync, serverless APIs, real-time features         |
-| **Room · SQLite**           | Offline-first data, local caching, conflict handling  |
-| **GitHub Actions · Fastlane** | CI/CD pipelines, automated testing & store delivery    |
+| Area                           | What it means in practice                                                                |
+| ------------------------------ | ----------------------------------------------------------------------------------------- |
+| **FinTech / Crypto**          | AI Trust Ledger (Android & Admin), BitBloom, PSE admin/user dashboards + cloud functions |
+| **Health & Ag‑Tech**          | Medicare (Flutter), Smart Ambulance, PneumoScan, LeafBloom — privacy‑first health tools   |
+| **EdTech & Learning**         | Learnify, BookWiz, GenWise — offline courses, book discovery, generational fun           |
+| **Productivity & Lifestyle**  | ExpenseTracker, NoteStash, to‑do lists (online/offline), Employee‑Mgmt, Blogger          |
+| **Dev Tools & Utilities**     | GitPulse (Android/Flutter), Volley/MVVM demos, Compose labs, Cloud Functions (Node)       |
+| **Edge AI & ML**              | On‑device TFLite/PyTorch (LeafBloom, PneumoScan), AI chat via Together API (NovaAI)       |
+| **Cross‑platform**            | Flutter stacks where iOS parity matters (Medicare, Smart Ambulance, GitPulse‑Flutter)    |
 
 ---
 
-## 🧠 Skill Map
+## 📂 Signature Projects by Theme
 
-### 📱 Mobile & UI
+### 🏦 FinTech & Crypto
 
-- **Android:** Jetpack Compose, Views, Material 3, Navigation, ViewModel, Room  
-- **Architecture:** MVVM, clean-ish layering, DI mindset, separation of concerns  
-- **Flutter:** Custom widgets, theming, animations, state management  
+| Project                           | Highlights                                                         | Tech & Tools                                                |
+| -------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **AI Trust Ledger**              | Decentralised investing ledger with team rewards & daily ROI; admin and user apps | Kotlin, Firebase Cloud Functions (Node.js), Cloud Firestore |
+| **BitBloom**                     | Crypto valet & staking; admin/user apps + cloud functions          | Kotlin (User/Admin), Cloud Functions, CoinPayments API      |
+| **Philippine Stock Exchange**    | Real‑time exchange dashboard with admin/user portals & deposits    | Kotlin, Firebase, GraphQL, Cloud Functions                 |
 
-### ⚙️ Core Engineering
+### 🏥 Health, Rescue & Ag‑Tech
 
-- **Networking:** Retrofit / OkHttp, REST, basic GraphQL, caching strategies  
-- **Data:** Room, SQLite, Firebase/Firestore, Supabase, offline sync patterns  
-- **Async:** Coroutines, Flows, structured concurrency, background workers  
+| Project             | Highlights                                                                                         | Tech & Tools                              |
+| ------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Medicare**        | Tele‑health, pharmacy ordering, appointments & payments with chatbot assistant (Flutter)           | Flutter, Firebase, Stripe, Provider/Riverpod |
+| **Smart Ambulance** | Location‑aware ambulance dispatch, role‑based login, maps & Firestore real‑time updates           | Flutter, Firebase Auth & Firestore, Google Maps |
+| **PneumoScan**      | Lung X‑ray scanning & classification using on‑device ML (private prototype)                        | Kotlin, TFLite/PyTorch Mobile             |
+| **LeafBloom**       | Tomato leaf disease detection: offline, bilingual, glassmorphic UI; soil analysis & AR coming soon | Kotlin, Jetpack (ViewModel, LiveData, Room), TFLite, PyTorch |
+| **MinerX / Leaf Utilities** | Shared utils for ag‑tech & leaf projects                                                  | Kotlin, WorkManager, Firebase             |
 
-### 🧬 AI & Edge ML
+### 📚 Education & Learning
 
-- Integrating **TFLite** models for on-device inference  
-- **ML Kit / MediaPipe** for real-time vision & recognition use-cases  
-- Designing UX where AI is a feature, not a gimmick  
+| Project        | Highlights                                                                     | Tech & Tools                                               |
+| -------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| **Learnify**   | Offline‑first e‑learning with Firebase Auth, Firestore, quizzes & progress     | Kotlin, MVVM, Dagger Hilt, Material Design, Firestore      |
+| **BookWiz**    | Google Books search & discovery, favourites cache, responsive UI               | Kotlin & Java, MVVM, Retrofit/OkHttp, Hilt, Room          |
+| **GenWise**    | Lightweight app that guesses your generation from name & age for fun trivia    | Kotlin & Java, MVVM                                        |
 
-### ☁️ Backend & Infra
+### 🧾 Productivity, Lifestyle & Social
 
-- **Firebase:** Auth, Firestore/RTDB, Cloud Functions, FCM  
-- **Supabase:** Postgres-backed auth & APIs for more structured backends  
-- **DevOps-lite:** GitHub Actions for tests/builds, Fastlane for release automation  
+| Project          | Highlights                                                         | Tech & Tools                                               |
+| ---------------- | ------------------------------------------------------------------ | ---------------------------------------------------------- |
+| **ExpenseTracker** | Biometric‑secured budgeting with charts, custom categories & offline Room DB | Kotlin, Compose, Room, Material Design, Coroutines & Flow  |
+| **NoteStash**    | Minimalist notes & to‑do app with undo/redo and offline storage    | Java, AndroidX, MVVM, Room                                 |
+| **to-do lists**  | Online & offline to‑do apps demonstrating MVVM & repository patterns | Kotlin, MVVM, Room, LiveData                              |
+| **Employee Management System** | CRUD management system with employee roles & tasks   | Java/Kotlin, Material Design                               |
+| **Blogger & Mock Portfolio** | Static site/blog & portfolio templates                 | HTML/CSS/JS, Bootstrap, Tailwind                           |
 
-### 🎯 Craft & Process
+### 🔧 Dev Tools & Utilities
 
-- Code that favors **readability over cleverness**  
-- Clear commit history (small, focused changes)  
-- Comfortable with PRs, reviews, and iterative improvements  
+| Project             | Highlights                                                                | Tech & Tools                                       |
+| ------------------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
+| **GitPulse (Android)** | Adds harmless marker commits to keep your GitHub green days            | Kotlin, Hilt, Retrofit, Firebase, Material 3       |
+| **GitPulse‑Flutter** | Same as above but cross‑platform                                          | Flutter, OAuth, Firestore                          |
+| **MVVM & Volley demos** | Demonstrates networking patterns & MVVM basics in clean modules      | Kotlin, Coroutines, Retrofit/Volley, LiveData      |
+| **Compose & Layout Codelabs** | Customised versions of official Compose labs with tweaks      | Jetpack Compose                                    |
+| **Cloud Functions repos** | Node/Firebase functions powering FinTech & crypto apps             | Node.js, Firebase Admin SDK                        |
+| **GitHub readme‑streak‑stats** | Fork of the popular streak stats generator for personalisation | JavaScript (Next.js/Vercel)                        |
 
 ---
 
-## 🚀 Flagship Work (selected)
+## 🧬 Tech Arsenal
 
-> Not an endless wall of tutorial apps — just a few projects that actually try to solve real problems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,graphql,supabase,tensorflow,sqlite,postgres,linux,docker,git,githubactions" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,aws,gcp" />
+</p>
 
-| ⭐ Project           | What it does (in human words)                         | Core Stack                        |
-| ------------------- | ----------------------------------------------------- | --------------------------------- |
-| **Learnify**        | Offline-first courses & quizzes for low-connectivity users | Kotlin · Firebase · Room          |
-| **ExpenseTracker**  | Biometric-secured budgeting with clean, focused UI   | Jetpack Compose · Room · M3       |
-| **NovaAI**          | Streaming AI chat with Markdown & code-friendly UI   | Kotlin · Retrofit · WebSockets    |
-| **AI Trust Ledger** | Ledger for investment decisions with AI assistance   | Kotlin · Cloud Functions · Firebase |
-| **BitBloom**        | Crypto valet & staking helper                        | Kotlin · CoinPayments API         |
-| **Smart Ambulance** | Live emergency dispatch and ambulance tracking       | Flutter · Firebase · Maps         |
-| **Medicare**        | Tele-health & pharmacy flows on mobile               | Flutter · Firebase                |
-| **GenWise**         | 3-phase load calculator for electricians             | Kotlin · Compose · Offline DB     |
-
-> Next step for you: link the 3–4 you’re proudest of as pinned repos + add short READMEs for each.
+Across these repos you’ll see patterns: Kotlin & Jetpack Compose, Dagger/Hilt DI, Coroutines & Flow, Retrofit/OkHttp, MVVM, Room, Node/Firebase functions, Flutter with Provider/Riverpod, Stripe & Google Maps integrations, TFLite & PyTorch for edge inference, and Figma‑driven UI/UX.
 
 ---
 
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <!-- Profile stats card -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayann07&theme=tokyonight"
     height="170"
   />
-  <!-- Top languages by repo -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayann07&theme=tokyonight"
     height="170"
@@ -135,7 +139,6 @@
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
   <img
     src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true"
     height="170"
@@ -143,47 +146,45 @@
 </p>
 
 <p align="center">
-  <!-- Trophy row -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=onedark&no-frame=true&row=1&column=6"
   />
 </p>
 
-
-
 ---
 
-## 🧩 How I Like to Build
+## 🧱 How I Build
 
-- **Product > Playground** – side projects are treated like products: onboarding, empty states, error states.  
-- **Offline-first mindset** – network is a bonus, not a hard requirement.  
-- **Privacy by default** – push intelligence to the device when possible.  
-- **Maintainable code** – fewer “clever” hacks, more predictable patterns.  
-- **Automated boring stuff** – CI/CD, checks, and release scripts so I can focus on shipping.  
+- **Product, not prototype** — even MVPs include onboarding, empty/error states, analytics & logging.
+- **Offline-first** — network is a nice-to-have, not a requirement; Room & caching by default.
+- **Privacy & Edge AI** — push ML to the device; never ship features that leak user data to random clouds.
+- **Maintainability** — favour readable code and predictable patterns over cleverness; MVVM & Clean Architecture.
+- **Automation** — GitHub Actions & Fastlane run linting, tests & deploys so I can ship quickly.
+- **Design‑driven** — Figma → Compose/Flutter; dark/light theming; micro-animations & polished UI.
 
 ---
 
 ## 🎓 Learning Journey
 
-| Year           | Milestone                                                        |
-| -------------- | ---------------------------------------------------------------- |
-| 2022 → present | **B.S. Software Engineering** — University of Sargodha           |
-| 2024           | **Android Dev Bootcamp** — Enfotrix                              |
-| 2025\*         | **Google Android Basics / Foundations track** *(in progress)*    |
-| Always         | Deepening **Compose, Flutter, on-device ML & KMP**              |
+| Year           | Milestone                                                               |
+| -------------- | ----------------------------------------------------------------------- |
+| 2022 → present | **B.S. Software Engineering** — University of Sargodha                  |
+| 2024           | **Android Dev Bootcamp** — Enfotrix                                     |
+| 2025\*         | **Google Android Basics / Foundations track** *(in progress)*           |
+| Continuous     | Deepening Compose, Flutter, on‑device ML, crypto protocols & KMP       |
 
 ---
 
-## 🔭 What I Want To Work On
+## 🔭 What I’m Looking For
 
-- AI-native Android apps (recommendations, assistants, smart capture, etc.)  
-- Tools for **healthcare, education, fintech, infra, or productivity** that actually get used  
-- Offline-first experiences for markets where “4G all the time” is a joke  
-- Teams that care about **DX, code quality, and UX**, not just shipping screens  
+- Roles or contracts building **AI‑native mobile products** in finance, health, ag‑tech, or education.
+- Teams valuing **DX, design, quality & privacy** over quick hacks.
+- Collaborations where **offline‑first & localised experiences** matter (Africa, South Asia, emerging markets).
+- Opportunities to bring **Edge ML & IoT** into mobile workflows.
 
 ---
 
-## ☕ Ping Me
+## ☕ Get in Touch
 
 <p align="center">
   <a href="mailto:shayankhan17353@gmail.com">
@@ -198,11 +199,11 @@
 </p>
 
 <p align="center" style="color:#8892b0;font-size:14px;">
-  📍 Pakistan (UTC+5) · Open to remote Android / Flutter / AI-native product work
+  📍 Sargodha, Pakistan (UTC+5) · Open to remote / hybrid opportunities
 </p>
 
 <blockquote align="center" style="color:#8be9fd;">
-  “First, solve the problem. Then, write the code.” — John Johnson
+  “First, solve the problem. Then, write the code.” — John Johnson
 </blockquote>
 
 <!-- 🌌 Footer Nebula -->
