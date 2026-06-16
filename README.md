@@ -11,7 +11,6 @@
 <p align="center">
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-94e2d5?style=for-the-badge&logo=githubsponsors&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Mobile%20%C2%B7%20Web%20%C2%B7%20Backend-Full--Stack-cba6f7?style=for-the-badge&logo=android&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="https://www.linkedin.com/in/shayann07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
 
 <br/>
