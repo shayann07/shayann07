@@ -1,361 +1,191 @@
-
-<!-- 🌌 Midnight Gradient Header Portfolio -->
+<!-- 🌌 Profile README — shayann07 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Shayan%20Khan&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0e27,50:1a1f3a,100:00e7ff&text=Shayan%20Khan&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer+%F0%9F%93%B1;FinTech+%7C+HealthTech+%7C+Ag-Tech+%7C+EdTech;On-device+AI+%2B+Offline-first+Experiences;Building+Production-Ready+Mobile+Products"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer;FinTech+%C2%B7+HealthTech+%C2%B7+Ag-Tech+%C2%B7+EdTech;On-device+AI+%2B+Offline-first+Experiences;Shipping+production-grade+mobile+products"/>
 </p>
 
-<div align="center">
-  
-### 💫 Mission Statement
-
-I craft opinionated, production-ready Android & Flutter products across finance, healthcare, ag-tech, education and productivity — with clean architecture, offline-first flows and on-device ML.
-
-</div>
-
-<br/>
-
-<!-- 🏷 Core Stack Badges -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-
-<!-- 🔗 Social & Meta -->
-
-<p align="center">
-  <a href="https://github.com/shayann07?tab=followers">
-    <img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=7F52FF&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shayann07?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=4285F4&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:shayankhan17353@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hi-00E7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-02569B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ==">
-    <img src="https://img.shields.io/badge/Instagram-Follow-FF6F00?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=00e7ff&logo=github&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=1a1f3a&logo=github&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-00e7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
 </p>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 👋 About
 
-<br/>
-
-## ⚡ At a Glance
+Android-first mobile engineer who also ships in Flutter when cross-platform matters. I build end-to-end products — user app, admin console, and backend together — across FinTech (multi-level investment platforms), HealthTech (tele-health, prescription scanning), Ag-Tech (on-device PyTorch disease diagnosis), and everyday productivity tools.
 
 ```yaml
-role: Multi-vertical Mobile Engineer
-specialties:
-  - Android-first (Compose + Material 3 + Coroutines/Flow)
-  - Flutter when cross-platform matters
-  - On-device AI (TFLite / PyTorch models)
-  - Offline-first & localised experiences
-domains: [FinTech, HealthTech, Ag-Tech, EdTech, Productivity]
-status: Open to remote roles, freelance gigs & product collabs
-location: Sargodha, Pakistan (UTC+5)
-````
+role:     Multi-vertical Mobile Engineer
+based:    Sargodha, Pakistan (UTC+5)
+focus:    Android · Flutter · On-device AI · Offline-first
+status:   Open to remote roles, freelance & product collabs
+shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
+```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/shayann07/LeafBloom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=LeafBloom&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/GitPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=GitPulse&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/shayann07/AI-Trust-Ledger-User"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=AI-Trust-Ledger-User&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/smart-ambulance-flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=smart-ambulance-flutter&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/shayann07/medicare_app_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=medicare_app_flutter&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/Learnify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=Learnify&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
 
 <br/>
 
-## 🧩 What I Do
-
-<div align="center">
-
-|                                        📱 **Product-grade Android**                                       |                                      🌉 **Flutter & Cross-platform**                                      |                                      🧠 **Edge AI & FinTech**                                      |
-| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square\&logo=android\&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white) | ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white) |
-|                               Compose · M3 · MVVM<br/>Room · Retrofit · Hilt                              |                              Flutter 3 · Riverpod/Provider<br/>Responsive UI                              |                             TFLite · ML Kit<br/>Cloud Functions · APIs                             |
-|              Robust apps with clean layers, solid navigation, theming and smooth performance              |           Shared codebases where Android + iOS parity is crucial: health, logistics, dashboards           |      AI-native flows, ledgers, staking tools & real-time decision support directly in the app      |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🚀 Flagship Products
-
-> A few things that represent how I build. More in the repos section.
-
-<br/>
+## 📂 More from the Portfolio
 
 <details>
-<summary><b>🌿 LeafBloom</b> — Offline tomato leaf disease diagnosis</summary>
+<summary><b>💸 FinTech & Investment Platforms</b> — 11 repos</summary>
 <br/>
 
-* 🎯 Offline disease diagnosis with bilingual (EN/UR) glassmorphic UI
-* 💾 Local DB and on-device ML for privacy & speed
-* **Stack:** Kotlin · Jetpack (ViewModel, LiveData, Room) · TFLite · PyTorch · Firebase
+- [**AI-Trust-Ledger-Admin**](https://github.com/shayann07/AI-Trust-Ledger-Admin) — Admin console for the AI Trust Ledger platform: users, plans, deposits, withdrawals.
+- [**Ai-Trust-Ledger-Cloud-Functions**](https://github.com/shayann07/Ai-Trust-Ledger-Cloud-Functions) — Daily payouts, scheduled bonuses, team analytics behind AI Trust Ledger.
+- [**BitBloom-Admin**](https://github.com/shayann07/BitBloom-Admin) — Admin console for BitBloom — users, plans, withdrawals, announcements, support.
+- [**bitBloom-user**](https://github.com/shayann07/bitBloom-user) — BitBloom user app — wallet, plans, referral team, support chat.
+- [**bitBloom-Cloud-Functions**](https://github.com/shayann07/bitBloom-Cloud-Functions) — Daily payouts, wallet credits, and team reporting for BitBloom.
+- [**MinerXGlobal-User**](https://github.com/shayann07/MinerXGlobal-User) — Investment plans, referral team, lucky draw, and real-time chat.
+- [**MinerX-utils**](https://github.com/shayann07/MinerX-utils) — Per-level team-deposit lookup tool for MinerX admins; live-streams results.
+- [**Philippine-Stock-Exchange-admin**](https://github.com/shayann07/Philippine-Stock-Exchange-admin) — Admin app for the PSE investment platform.
+- [**Philippine-Stock-Exchange-user**](https://github.com/shayann07/Philippine-Stock-Exchange-user) — PSE user app — plans, USDT deposits, referral team, support.
+- [**PSE-Cloud-Functions**](https://github.com/shayann07/PSE-Cloud-Functions) — Team rollups, leadership bonuses, nightly ROI, monthly salary scheduler.
+- [**PSEDeposit-main**](https://github.com/shayann07/PSEDeposit-main) — Backend deposit service: USDT-BEP20 top-ups via CoinPayments.
 
 </details>
 
 <details>
-<summary><b>🏥 Medicare</b> — Tele-health & pharmacy platform</summary>
+<summary><b>🏥 Healthcare & AI</b> — 3 repos</summary>
 <br/>
 
-* 🩺 Appointments, chat, payments and pharmacy flows in one app
-* 💳 Integrated payment processing with Stripe
-* **Stack:** Flutter · Firebase · Stripe · Provider/Riverpod
+- [**PharmaScan**](https://github.com/shayann07/PharmaScan) — Scan a prescription, verify each medication, and get smart reminders to take them.
+- [**PneumoScan**](https://github.com/shayann07/PneumoScan) — Pneumonia education app — AI lung screening from chest X-rays coming soon.
+- [**NovaAI**](https://github.com/shayann07/NovaAI) — Chat with an open-source LLM (Mistral 7B) right from your phone.
 
 </details>
 
 <details>
-<summary><b>🚑 Smart Ambulance</b> — Real-time dispatch system</summary>
+<summary><b>📱 Productivity & Lifestyle Apps</b> — 10 repos</summary>
 <br/>
 
-* 📍 Live map tracking for hospitals, drivers & control rooms
-* 🔐 Role-based access control
-* **Stack:** Flutter · Firebase Auth & Firestore · Google Maps
+- [**to-do-list**](https://github.com/shayann07/to-do-list) — An iOS-Reminders-style to-do app for Android — cloud sync + local notifications.
+- [**to-do-list-offline**](https://github.com/shayann07/to-do-list-offline) — The offline-only version of my Reminders app, no account needed.
+- [**NoteStash**](https://github.com/shayann07/NoteStash) — Quick notes in a clean grid; swipe to delete with undo.
+- [**ExpenseTracker**](https://github.com/shayann07/ExpenseTracker) — Daily expenses, date filters, pie-chart breakdown, daily reminder.
+- [**BookWiz**](https://github.com/shayann07/BookWiz) — Browse and search millions of books from the Google Books catalogue.
+- [**Pixels**](https://github.com/shayann07/Pixels) — Browse and search Pexels photos with pinch-zoom and offline reads.
+- [**Blogger**](https://github.com/shayann07/Blogger) — Write and organise blog posts entirely offline; share to other apps.
+- [**Contacts-iOS-26-ui**](https://github.com/shayann07/Contacts-iOS-26-ui) — Contacts list with an iOS-26-inspired look, all stored on-device.
+- [**Employee-Management-System**](https://github.com/shayann07/Employee-Management-System) — Add, edit, and remove employee records — fully offline CRUD.
+- [**BizQ**](https://github.com/shayann07/BizQ) — Onboard your business: services, hours, branding, English or Arabic.
 
 </details>
 
 <details>
-<summary><b>💸 AI Trust Ledger</b> — Decentralised investing ledger</summary>
+<summary><b>📺 Kiosk, Streaming & IoT</b> — 4 repos</summary>
 <br/>
 
-* 💰 Team rewards, daily ROI tracking
-* 📊 Admin dashboards for managing investor credits
-* **Stack:** Kotlin · Cloud Functions (Node.js) · Firestore
+- [**Playback-Master**](https://github.com/shayann07/Playback-Master) — Scheduled full-screen video playback during a daily time window.
+- [**Playback-Master-Proximity**](https://github.com/shayann07/Playback-Master-Proximity) — Same as Playback-Master, but driven by an ESP32 proximity sensor over USB.
+- [**SpyWare**](https://github.com/shayann07/SpyWare) — Local-video kiosk that resumes scheduled playback after a reboot.
+- [**StreamBox**](https://github.com/shayann07/StreamBox) — Android IPTV streaming app paired with a PHP admin panel.
 
 </details>
 
 <details>
-<summary><b>📚 Learnify</b> — Offline-friendly learning platform</summary>
+<summary><b>🛠 GitHub Tooling</b> — 2 repos</summary>
 <br/>
 
-* 🎓 Auth, courses, quizzes and progress tracking
-* 📡 Tuned for spotty networks
-* **Stack:** Kotlin · MVVM · Hilt · Material · Firebase
+- [**GitPulse-Flutter**](https://github.com/shayann07/GitPulse-Flutter) — The Flutter rewrite of GitPulse — schedule tiny commits to keep your graph alive.
+- [**github-readme-streak-stats**](https://github.com/shayann07/github-readme-streak-stats) — Contribution-streak SVG badge for your profile README (fork).
 
 </details>
 
 <details>
-<summary><b>📊 GitPulse / GitPulse-Flutter</b> — GitHub activity tracker</summary>
+<summary><b>📚 Learning & Samples</b> — 9 repos</summary>
 <br/>
 
-* 📈 Keep your GitHub graph alive with safe activity
-* 📉 Stats and contribution-boosting flows
-* **Stack:** Kotlin / Flutter · OAuth · Firebase · GitHub APIs
+- [**Compose-BasicCodeLab**](https://github.com/shayann07/Compose-BasicCodeLab) — My solution to Google's "Jetpack Compose basics" codelab.
+- [**Compose-BasicLayoutsCodelab**](https://github.com/shayann07/Compose-BasicLayoutsCodelab) — My solution to the "Basic Layouts in Compose" MySoothe codelab.
+- [**MVVM-implementation**](https://github.com/shayann07/MVVM-implementation) — Phone-number login against a remote API, structured around MVVM.
+- [**Api-implementation-volley**](https://github.com/shayann07/Api-implementation-volley) — Sign-up/login against a REST API using Volley.
+- [**Firebase-Auth-Basic-Setup**](https://github.com/shayann07/Firebase-Auth-Basic-Setup) — Minimal Firebase email/password auth starter.
+- [**Kotlin-sharedprefs**](https://github.com/shayann07/Kotlin-sharedprefs) — Sign-up/sign-in flow persisted via SharedPreferences.
+- [**Java-Classes**](https://github.com/shayann07/Java-Classes) — Pass data between two Android activities using an Intent.
+- [**Genwise**](https://github.com/shayann07/Genwise) — Type in your age, learn your life stage.
+- [**dummy**](https://github.com/shayann07/dummy) — UI prototype for a services-marketplace app.
 
 </details>
 
+<details>
+<summary><b>🌐 Web & Portfolio</b> — 5 repos</summary>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- [**Mock-Portfolio**](https://github.com/shayann07/Mock-Portfolio) — Interactive 3D portfolio — animated character + physics-based ball pit (R3F + GSAP).
+- [**portfolio-mockup**](https://github.com/shayann07/portfolio-mockup) — Animated single-page React portfolio with smooth scroll and dark theme.
+- [**Portfolio**](https://github.com/shayann07/Portfolio) — Personal portfolio — placeholder, real version coming soon.
+- [**ClothPedia**](https://github.com/shayann07/ClothPedia) — A small fashion encyclopedia.
+- [**Web-Eng-1**](https://github.com/shayann07/Web-Eng-1) — Static 5-page mockup of an online-learning site (Web Engineering coursework).
 
-<br/>
-
-## 🧭 2025 Focus Areas
-
-<div align="center">
-
-|            Domain            | Focus                                                                 |
-| :--------------------------: | :-------------------------------------------------------------------- |
-|    💸 **FinTech / Crypto**   | Trading suites, ledgers, staking tools, credit/ROI dashboards         |
-|    🏥 **Health & Rescue**    | Tele-health, ambulance systems, diagnostics & patient-centric flows   |
-|        🌾 **Ag-Tech**        | Decision support apps for farmers & field workers (LeafBloom, MinerX) |
-| 📚 **EdTech & Productivity** | Learnify, BookWiz, NoteStash, ExpenseTracker, GenWise                 |
-|      🤖 **AI-native UX**     | Features that feel natural in the UX, not bolted-on gimmicks          |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</details>
 
 <br/>
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=firebase,graphql,supabase,tensorflow,sqlite,postgres&theme=dark" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,githubactions,vscode,figma,postman,aws,gcp&theme=dark" />
-
-</div>
-
-<div align="center">
-
-```kotlin
-val dailyDriver = TechStack(
-    languages = listOf("Kotlin", "Java", "Dart"),
-    frameworks = listOf("Jetpack Compose", "Flutter", "MVVM"),
-    async = listOf("Coroutines", "Flow", "Futures"),
-    storage = listOf("Room", "SQLite", "Firestore"),
-    networking = listOf("Retrofit", "GraphQL", "REST APIs"),
-    di = listOf("Hilt", "Koin"),
-    ml = listOf("TFLite", "PyTorch", "ML Kit"),
-    cloud = listOf("Firebase", "Supabase", "Cloud Functions"),
-    payments = listOf("Stripe", "Razorpay", "Crypto APIs"),
-    cicd = listOf("GitHub Actions", "Fastlane")
-)
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shayann07&theme=tokyonight" width="44%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shayann07&theme=tokyonight" width="44%"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,sqlite,nodejs,express,react,typescript,php,html,css,git,githubactions,vscode,figma&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true" width="55%"/>
+<sub>In practice: Jetpack Compose · Material Design · Coroutines/Flow · Room · Retrofit · Volley · AlarmManager · ExoPlayer · Firebase (Auth · Firestore · Functions) · PyTorch · Gemini · CoinPayments · Three.js · R3F · GSAP · TailwindCSS · CodeIgniter.</sub>
 </p>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayann07&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
-
-<br/>
-
-## 🧱 Development Philosophy
-
-<div align="center">
-
-| Principle                  | Implementation                                                      |
-| :------------------------- | :------------------------------------------------------------------ |
-| 🎯 **Product > Prototype** | Real flows: onboarding, empty & error states, logging and analytics |
-| 📡 **Offline-first**       | Room / caching and graceful sync are default, not after-thoughts    |
-| 🔒 **Privacy & Edge ML**   | Keep data & inference on device whenever possible                   |
-| 🏗 **Clean Architecture**  | MVVM, clear boundaries, testable layers, consistent patterns        |
-| 🤖 **Automation**          | GitHub Actions & Fastlane for builds, checks and releases           |
-| 🎨 **Design-driven**       | Figma → Compose/Flutter, theming, micro-animations, UX polish       |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🎓 Learning Journey
-
-<div align="center">
-
-```mermaid
-timeline
-    title Education & Growth
-    2022-Present : B.S. Software Engineering
-                 : University of Sargodha
-    2024 : Android Dev Bootcamp
-         : Enfotrix
-    2025 : Google Android Basics/Foundations
-         : In Progress
-    Continuous : Deepening expertise in
-               : Compose • Flutter • On-device ML
-               : Crypto protocols • KMP
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🔭 What I'm Looking For
-
-<div align="center">
-
-|  🎯 | Looking For                                                                        |
-| :-: | :--------------------------------------------------------------------------------- |
-|  🤖 | AI-native **Android / Flutter** roles in FinTech, HealthTech, Ag-Tech or EdTech    |
-|  👥 | Teams that care about **DX, UX, privacy & performance**, not just shipping screens |
-|  🌍 | Collabs where **offline-first & localisation** actually matter                     |
-|  💼 | Remote / hybrid opportunities with product-minded teams                            |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
 ## 💬 Let's Connect
 
-<div align="center">
-
-### 📫 Reach Out
-
-<a href="mailto:shayankhan17353@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let%27s%20Talk-00E7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/>
-</a>
-<a href="https://www.linkedin.com/in/shayan-khan-285b16190">
-  <img src="https://img.shields.io/badge/LinkedIn-Say%20Hi-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/>
-</a>
-<a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ==">
-  <img src="https://img.shields.io/badge/Instagram-Follow-FF6F00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e27"/>
-</a>
-
-<br/><br/>
-
-📍 **Sargodha, Pakistan (UTC+5)**
-🌐 **Open to remote / hybrid opportunities**
-
-<br/>
-
-### 💭 Philosophy
-
-> "First, solve the problem. Then, write the code."
-> — John Johnson
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### ⭐ If you like what you see, drop a star on my repos!
-
-</div>
-
-<!-- 🌌 Footer Nebula -->
+<p align="center">
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-00e7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ=="><img src="https://img.shields.io/badge/Instagram-Follow-00e7ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e27"/></a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:24243e,100:302b63&section=footer" width="100%"/>
+📍 <b>Sargodha, Pakistan (UTC+5)</b> · 🌐 Open to remote / hybrid
+</p>
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00e7ff,50:1a1f3a,100:0a0e27&section=footer" width="100%"/>
 </p>
 
 <!-- gitpulse:contribution index="1" timestamp="2026-04-24" -->
