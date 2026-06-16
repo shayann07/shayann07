@@ -1,18 +1,18 @@
 <!-- 🌌 Profile README — shayann07 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0e27,50:1a1f3a,100:00e7ff&text=Shayan%20Khan&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1e2e,50:cba6f7,100:94e2d5&text=Shayan%20Khan&fontColor=cdd6f4&fontSize=52&animation=twinkling&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer;FinTech+%C2%B7+HealthTech+%C2%B7+Ag-Tech+%C2%B7+EdTech;On-device+AI+%2B+Offline-first+Experiences;Shipping+production-grade+mobile+products"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&color=94E2D5&center=true&vCenter=true&width=900&lines=Android+%26+Flutter+Engineer;FinTech+%C2%B7+HealthTech+%C2%B7+Ag-Tech+%C2%B7+EdTech;On-device+AI+%2B+Offline-first+Experiences;Shipping+production-grade+mobile+products"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=00e7ff&logo=github&logoColor=white&labelColor=0a0e27"/></a>
-  <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=1a1f3a&logo=github&logoColor=white&labelColor=0a0e27"/></a>
-  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-00e7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/></a>
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=94e2d5&logo=github&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=cba6f7&logo=github&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
 
 <br/>
@@ -34,16 +34,16 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/shayann07/LeafBloom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=LeafBloom&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/GitPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=GitPulse&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/LeafBloom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=LeafBloom&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/GitPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=GitPulse&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/shayann07/AI-Trust-Ledger-User"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=AI-Trust-Ledger-User&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/smart-ambulance-flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=smart-ambulance-flutter&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/AI-Trust-Ledger-User"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=AI-Trust-Ledger-User&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/smart-ambulance-flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=smart-ambulance-flutter&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/shayann07/medicare_app_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=medicare_app_flutter&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/Learnify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=Learnify&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/medicare_app_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=medicare_app_flutter&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/shayann07/Learnify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=Learnify&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
 </p>
 
 <br/>
@@ -160,8 +160,8 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=catppuccin_mocha&hide_border=true" width="48%"/>
 </p>
 
 <br/>
@@ -169,9 +169,9 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-00e7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/></a>
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-1a1f3a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
-  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ=="><img src="https://img.shields.io/badge/Instagram-Follow-00e7ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e27"/></a>
+  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ=="><img src="https://img.shields.io/badge/Instagram-Follow-cba6f7?style=for-the-badge&logo=instagram&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
 
 <p align="center">
@@ -185,7 +185,7 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00e7ff,50:1a1f3a,100:0a0e27&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:94e2d5,50:cba6f7,100:1e1e2e&section=footer" width="100%"/>
 </p>
 
 <!-- gitpulse:contribution index="1" timestamp="2026-04-24" -->
