@@ -163,14 +163,11 @@ End-to-end investment platform — wallet, plan purchases, multi-level referral 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=445" height="195"/></td>
-      <td><img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=catppuccin_mocha&hide_border=true&card_width=445" height="195"/></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=445" height="195"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=catppuccin_mocha&hide_border=true&card_width=445" height="195"/>
+</p>
 
 <br/>
 
