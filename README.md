@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shayann07?tab=followers"><img src="https://img.shields.io/github/followers/shayann07?label=Followers&style=for-the-badge&color=94e2d5&logo=github&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="https://github.com/shayann07?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shayann07&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=cba6f7&logo=github&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-94e2d5?style=for-the-badge&logo=githubsponsors&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Mobile%20%C2%B7%20Web%20%C2%B7%20Backend-Full--Stack-cba6f7?style=for-the-badge&logo=android&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
   <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
   <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
@@ -33,18 +33,23 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/shayann07/LeafBloom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=LeafBloom&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/GitPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=GitPulse&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shayann07/AI-Trust-Ledger-User"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=AI-Trust-Ledger-User&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/smart-ambulance-flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=smart-ambulance-flutter&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shayann07/medicare_app_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=medicare_app_flutter&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/shayann07/Learnify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shayann07&repo=Learnify&theme=catppuccin_mocha&hide_border=true" width="49%"/></a>
-</p>
+### 🌱 [LeafBloom](https://github.com/shayann07/LeafBloom) &nbsp;·&nbsp; `Android` `Kotlin` `PyTorch` `Firebase`
+On-device tomato-leaf disease diagnosis with a PyTorch model, a plant-care chat assistant, and a houseplant encyclopedia. Native ML in a real consumer app.
+
+### 🩺 [PharmaScan](https://github.com/shayann07/PharmaScan) &nbsp;·&nbsp; `Android` `Kotlin` `Gemini AI` `OCR`
+Scan a prescription with your camera, verify each medication, and get smart reminders so you take the right pills at the right time.
+
+### 📈 [GitPulse](https://github.com/shayann07/GitPulse) &nbsp;·&nbsp; `Android` `Kotlin` `GitHub API` `Automation`
+Schedules tiny commits to a private repo automatically so your contribution graph stays green even on the days you don't get to write real code.
+
+### 🚑 [Smart Ambulance](https://github.com/shayann07/smart-ambulance-flutter) &nbsp;·&nbsp; `Flutter` `Dart` `Firebase` `Google Maps`
+Request an emergency ambulance from your phone and watch it head your way on a live map. Ships with a paired driver app for accepting and completing rides.
+
+### 💊 [Medicare](https://github.com/shayann07/medicare_app_flutter) &nbsp;·&nbsp; `Flutter` `Dart` `Firebase` `AI Chatbot`
+A healthcare companion — browse doctors, book and pay for appointments, and chat with an AI health assistant between visits.
+
+### 💰 [AI Trust Ledger](https://github.com/shayann07/AI-Trust-Ledger-User) &nbsp;·&nbsp; `Android` `Kotlin` `Firebase` `FinTech`
+End-to-end investment platform — wallet, plan purchases, multi-level referral team, leaderboard, and in-app support chat. Your most complete fintech build.
 
 <br/>
 
@@ -54,25 +59,24 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>💸 FinTech & Investment Platforms</b> — 11 repos</summary>
 <br/>
 
-- [**AI-Trust-Ledger-Admin**](https://github.com/shayann07/AI-Trust-Ledger-Admin) — Admin console for the AI Trust Ledger platform: users, plans, deposits, withdrawals.
-- [**Ai-Trust-Ledger-Cloud-Functions**](https://github.com/shayann07/Ai-Trust-Ledger-Cloud-Functions) — Daily payouts, scheduled bonuses, team analytics behind AI Trust Ledger.
-- [**BitBloom-Admin**](https://github.com/shayann07/BitBloom-Admin) — Admin console for BitBloom — users, plans, withdrawals, announcements, support.
-- [**bitBloom-user**](https://github.com/shayann07/bitBloom-user) — BitBloom user app — wallet, plans, referral team, support chat.
-- [**bitBloom-Cloud-Functions**](https://github.com/shayann07/bitBloom-Cloud-Functions) — Daily payouts, wallet credits, and team reporting for BitBloom.
-- [**MinerXGlobal-User**](https://github.com/shayann07/MinerXGlobal-User) — Investment plans, referral team, lucky draw, and real-time chat.
-- [**MinerX-utils**](https://github.com/shayann07/MinerX-utils) — Per-level team-deposit lookup tool for MinerX admins; live-streams results.
-- [**Philippine-Stock-Exchange-admin**](https://github.com/shayann07/Philippine-Stock-Exchange-admin) — Admin app for the PSE investment platform.
-- [**Philippine-Stock-Exchange-user**](https://github.com/shayann07/Philippine-Stock-Exchange-user) — PSE user app — plans, USDT deposits, referral team, support.
-- [**PSE-Cloud-Functions**](https://github.com/shayann07/PSE-Cloud-Functions) — Team rollups, leadership bonuses, nightly ROI, monthly salary scheduler.
-- [**PSEDeposit-main**](https://github.com/shayann07/PSEDeposit-main) — Backend deposit service: USDT-BEP20 top-ups via CoinPayments.
+- [**AI Trust Ledger Admin**](https://github.com/shayann07/AI-Trust-Ledger-Admin) — Admin console for the AI Trust Ledger platform: users, plans, deposits, withdrawals.
+- [**AI Trust Ledger Cloud Functions**](https://github.com/shayann07/Ai-Trust-Ledger-Cloud-Functions) — Daily payouts, scheduled bonuses, team analytics behind AI Trust Ledger.
+- [**BitBloom Admin**](https://github.com/shayann07/BitBloom-Admin) — Admin console for BitBloom — users, plans, withdrawals, announcements, support.
+- [**BitBloom User**](https://github.com/shayann07/bitBloom-user) — BitBloom user app — wallet, plans, referral team, support chat.
+- [**BitBloom Cloud Functions**](https://github.com/shayann07/bitBloom-Cloud-Functions) — Daily payouts, wallet credits, and team reporting for BitBloom.
+- [**MinerX Global User**](https://github.com/shayann07/MinerXGlobal-User) — Investment plans, referral team, lucky draw, and real-time chat.
+- [**MinerX Utils**](https://github.com/shayann07/MinerX-utils) — Per-level team-deposit lookup tool for MinerX admins; live-streams results.
+- [**Philippine Stock Exchange Admin**](https://github.com/shayann07/Philippine-Stock-Exchange-admin) — Admin app for the PSE investment platform.
+- [**Philippine Stock Exchange User**](https://github.com/shayann07/Philippine-Stock-Exchange-user) — PSE user app — plans, USDT deposits, referral team, support.
+- [**PSE Cloud Functions**](https://github.com/shayann07/PSE-Cloud-Functions) — Team rollups, leadership bonuses, nightly ROI, monthly salary scheduler.
+- [**PSE Deposit Backend**](https://github.com/shayann07/PSEDeposit-main) — Backend deposit service: USDT-BEP20 top-ups via CoinPayments.
 
 </details>
 
 <details>
-<summary><b>🏥 Healthcare & AI</b> — 3 repos</summary>
+<summary><b>🏥 Healthcare & AI</b> — 2 repos</summary>
 <br/>
 
-- [**PharmaScan**](https://github.com/shayann07/PharmaScan) — Scan a prescription, verify each medication, and get smart reminders to take them.
 - [**PneumoScan**](https://github.com/shayann07/PneumoScan) — Pneumonia education app — AI lung screening from chest X-rays coming soon.
 - [**NovaAI**](https://github.com/shayann07/NovaAI) — Chat with an open-source LLM (Mistral 7B) right from your phone.
 
@@ -82,15 +86,15 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>📱 Productivity & Lifestyle Apps</b> — 10 repos</summary>
 <br/>
 
-- [**to-do-list**](https://github.com/shayann07/to-do-list) — An iOS-Reminders-style to-do app for Android — cloud sync + local notifications.
-- [**to-do-list-offline**](https://github.com/shayann07/to-do-list-offline) — The offline-only version of my Reminders app, no account needed.
+- [**To-Do List**](https://github.com/shayann07/to-do-list) — An iOS-Reminders-style to-do app for Android — cloud sync + local notifications.
+- [**To-Do List Offline**](https://github.com/shayann07/to-do-list-offline) — The offline-only version of my Reminders app, no account needed.
 - [**NoteStash**](https://github.com/shayann07/NoteStash) — Quick notes in a clean grid; swipe to delete with undo.
-- [**ExpenseTracker**](https://github.com/shayann07/ExpenseTracker) — Daily expenses, date filters, pie-chart breakdown, daily reminder.
+- [**Expense Tracker**](https://github.com/shayann07/ExpenseTracker) — Daily expenses, date filters, pie-chart breakdown, daily reminder.
 - [**BookWiz**](https://github.com/shayann07/BookWiz) — Browse and search millions of books from the Google Books catalogue.
 - [**Pixels**](https://github.com/shayann07/Pixels) — Browse and search Pexels photos with pinch-zoom and offline reads.
 - [**Blogger**](https://github.com/shayann07/Blogger) — Write and organise blog posts entirely offline; share to other apps.
-- [**Contacts-iOS-26-ui**](https://github.com/shayann07/Contacts-iOS-26-ui) — Contacts list with an iOS-26-inspired look, all stored on-device.
-- [**Employee-Management-System**](https://github.com/shayann07/Employee-Management-System) — Add, edit, and remove employee records — fully offline CRUD.
+- [**Contacts (iOS 26 UI)**](https://github.com/shayann07/Contacts-iOS-26-ui) — Contacts list with an iOS-26-inspired look, all stored on-device.
+- [**Employee Management System**](https://github.com/shayann07/Employee-Management-System) — Add, edit, and remove employee records — fully offline CRUD.
 - [**BizQ**](https://github.com/shayann07/BizQ) — Onboard your business: services, hours, branding, English or Arabic.
 
 </details>
@@ -99,8 +103,8 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>📺 Kiosk, Streaming & IoT</b> — 4 repos</summary>
 <br/>
 
-- [**Playback-Master**](https://github.com/shayann07/Playback-Master) — Scheduled full-screen video playback during a daily time window.
-- [**Playback-Master-Proximity**](https://github.com/shayann07/Playback-Master-Proximity) — Same as Playback-Master, but driven by an ESP32 proximity sensor over USB.
+- [**Playback Master**](https://github.com/shayann07/Playback-Master) — Scheduled full-screen video playback during a daily time window.
+- [**Playback Master Proximity**](https://github.com/shayann07/Playback-Master-Proximity) — Same as Playback Master, but driven by an ESP32 proximity sensor over USB.
 - [**SpyWare**](https://github.com/shayann07/SpyWare) — Local-video kiosk that resumes scheduled playback after a reboot.
 - [**StreamBox**](https://github.com/shayann07/StreamBox) — Android IPTV streaming app paired with a PHP admin panel.
 
@@ -110,8 +114,8 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>🛠 GitHub Tooling</b> — 2 repos</summary>
 <br/>
 
-- [**GitPulse-Flutter**](https://github.com/shayann07/GitPulse-Flutter) — The Flutter rewrite of GitPulse — schedule tiny commits to keep your graph alive.
-- [**github-readme-streak-stats**](https://github.com/shayann07/github-readme-streak-stats) — Contribution-streak SVG badge for your profile README (fork).
+- [**GitPulse (Flutter)**](https://github.com/shayann07/GitPulse-Flutter) — The Flutter rewrite of GitPulse — schedule tiny commits to keep your graph alive.
+- [**GitHub Readme Streak Stats**](https://github.com/shayann07/github-readme-streak-stats) — Contribution-streak SVG badge for your profile README (fork).
 
 </details>
 
@@ -119,15 +123,15 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>📚 Learning & Samples</b> — 9 repos</summary>
 <br/>
 
-- [**Compose-BasicCodeLab**](https://github.com/shayann07/Compose-BasicCodeLab) — My solution to Google's "Jetpack Compose basics" codelab.
-- [**Compose-BasicLayoutsCodelab**](https://github.com/shayann07/Compose-BasicLayoutsCodelab) — My solution to the "Basic Layouts in Compose" MySoothe codelab.
-- [**MVVM-implementation**](https://github.com/shayann07/MVVM-implementation) — Phone-number login against a remote API, structured around MVVM.
-- [**Api-implementation-volley**](https://github.com/shayann07/Api-implementation-volley) — Sign-up/login against a REST API using Volley.
-- [**Firebase-Auth-Basic-Setup**](https://github.com/shayann07/Firebase-Auth-Basic-Setup) — Minimal Firebase email/password auth starter.
-- [**Kotlin-sharedprefs**](https://github.com/shayann07/Kotlin-sharedprefs) — Sign-up/sign-in flow persisted via SharedPreferences.
-- [**Java-Classes**](https://github.com/shayann07/Java-Classes) — Pass data between two Android activities using an Intent.
+- [**Compose Basics Codelab**](https://github.com/shayann07/Compose-BasicCodeLab) — My solution to Google's "Jetpack Compose basics" codelab.
+- [**Compose Basic Layouts Codelab**](https://github.com/shayann07/Compose-BasicLayoutsCodelab) — My solution to the "Basic Layouts in Compose" MySoothe codelab.
+- [**MVVM Implementation**](https://github.com/shayann07/MVVM-implementation) — Phone-number login against a remote API, structured around MVVM.
+- [**Volley API Implementation**](https://github.com/shayann07/Api-implementation-volley) — Sign-up/login against a REST API using Volley.
+- [**Firebase Auth Starter**](https://github.com/shayann07/Firebase-Auth-Basic-Setup) — Minimal Firebase email/password auth starter.
+- [**Kotlin SharedPreferences**](https://github.com/shayann07/Kotlin-sharedprefs) — Sign-up/sign-in flow persisted via SharedPreferences.
+- [**Java Activity Classes**](https://github.com/shayann07/Java-Classes) — Pass data between two Android activities using an Intent.
 - [**Genwise**](https://github.com/shayann07/Genwise) — Type in your age, learn your life stage.
-- [**dummy**](https://github.com/shayann07/dummy) — UI prototype for a services-marketplace app.
+- [**Marketplace UI Prototype**](https://github.com/shayann07/dummy) — UI prototype for a services-marketplace app.
 
 </details>
 
@@ -135,11 +139,11 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <summary><b>🌐 Web & Portfolio</b> — 5 repos</summary>
 <br/>
 
-- [**Mock-Portfolio**](https://github.com/shayann07/Mock-Portfolio) — Interactive 3D portfolio — animated character + physics-based ball pit (R3F + GSAP).
-- [**portfolio-mockup**](https://github.com/shayann07/portfolio-mockup) — Animated single-page React portfolio with smooth scroll and dark theme.
+- [**Mock Portfolio**](https://github.com/shayann07/Mock-Portfolio) — Interactive 3D portfolio — animated character + physics-based ball pit (R3F + GSAP).
+- [**Portfolio Mockup**](https://github.com/shayann07/portfolio-mockup) — Animated single-page React portfolio with smooth scroll and dark theme.
 - [**Portfolio**](https://github.com/shayann07/Portfolio) — Personal portfolio — placeholder, real version coming soon.
 - [**ClothPedia**](https://github.com/shayann07/ClothPedia) — A small fashion encyclopedia.
-- [**Web-Eng-1**](https://github.com/shayann07/Web-Eng-1) — Static 5-page mockup of an online-learning site (Web Engineering coursework).
+- [**Web Engineering 1**](https://github.com/shayann07/Web-Eng-1) — Static 5-page mockup of an online-learning site (Web Engineering coursework).
 
 </details>
 
@@ -294,3 +298,24 @@ shipped:  50 public repos · 12 fintech apps · 4 healthcare apps
 <!-- gitpulse:contribution index="104" timestamp="2026-06-07" -->
 <!-- gitpulse:contribution index="105" timestamp="2026-06-07" -->
 <!-- gitpulse:contribution index="106" timestamp="2026-06-07" -->
+<!-- gitpulse:contribution index="107" timestamp="2026-06-07" -->
+<!-- gitpulse:contribution index="108" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="109" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="110" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="111" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="112" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="113" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="114" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="115" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="116" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="117" timestamp="2026-06-11" -->
+<!-- gitpulse:contribution index="118" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="119" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="120" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="121" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="122" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="123" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="124" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="125" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="126" timestamp="2026-06-12" -->
+<!-- gitpulse:contribution index="127" timestamp="2026-06-12" -->
