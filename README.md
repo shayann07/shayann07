@@ -11,8 +11,7 @@
 <p align="center">
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-94e2d5?style=for-the-badge&logo=githubsponsors&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Mobile%20%C2%B7%20Web%20%C2%B7%20Backend-Full--Stack-cba6f7?style=for-the-badge&logo=android&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.linkedin.com/in/shayann07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
 
 <br/>
@@ -152,7 +151,7 @@ End-to-end investment platform — wallet, plan purchases, multi-level referral 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,sqlite,nodejs,express,react,typescript,php,html,css,git,githubactions,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,firebase,sqlite,nodejs,express,react,typescript,php,html,css,git,githubactions,vscode,figma&theme=dark&perline=9" />
 </p>
 
 <p align="center">
@@ -163,19 +162,23 @@ End-to-end investment platform — wallet, plan purchases, multi-level referral 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=catppuccin_mocha&hide_border=true" width="48%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=shayann07&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=445" height="195"/></td>
+      <td><img src="https://github-readme-streak-stats-gilt-six.vercel.app?user=shayann07&theme=catppuccin_mocha&hide_border=true&card_width=445" height="195"/></td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:shayankhan17353@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="https://www.linkedin.com/in/shayan-khan-285b16190"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
-  <a href="https://www.instagram.com/shayxo.07?igsh=MWg0c24zNjY2eXRzZQ=="><img src="https://img.shields.io/badge/Instagram-Follow-cba6f7?style=for-the-badge&logo=instagram&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="mailto:hello@shayxo.dev"><img src="https://img.shields.io/badge/Email-Let%27s%20Talk-f5c2e7?style=for-the-badge&logo=gmail&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.linkedin.com/in/shayann07/"><img src="https://img.shields.io/badge/LinkedIn-Connect-89b4fa?style=for-the-badge&logo=linkedin&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
+  <a href="https://www.instagram.com/shayxo.dev/"><img src="https://img.shields.io/badge/Instagram-Follow-cba6f7?style=for-the-badge&logo=instagram&logoColor=cdd6f4&labelColor=1e1e2e"/></a>
 </p>
 
 <p align="center">
