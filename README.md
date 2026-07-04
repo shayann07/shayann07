@@ -164,7 +164,7 @@ End-to-end investment platform — wallet, plan purchases, multi-level referral 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-nightview.svg" width="100%" alt="Shayan's GitHub 3D Contribution Graph"/>
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Shayan's GitHub 3D Contribution Graph"/>
 </p>
 
 <p align="center">
