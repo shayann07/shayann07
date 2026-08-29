@@ -319,3 +319,10 @@ End-to-end investment platform — wallet, plan purchases, multi-level referral 
 <!-- gitpulse:contribution index="125" timestamp="2026-06-12" -->
 <!-- gitpulse:contribution index="126" timestamp="2026-06-12" -->
 <!-- gitpulse:contribution index="127" timestamp="2026-06-12" -->
+
+
+---
+
+## 📄 License
+
+This profile repository and documentation are open-source under the [MIT License](LICENSE) — Copyright (c) 2026 [shayann07](https://github.com/shayann07).
