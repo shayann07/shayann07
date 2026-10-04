@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   update:
@@ -43,3 +44,9 @@ jobs:
           git config user.email github-actions@github.com
           git add README.md
           git diff --cached --quiet || (git commit -m "Update contributions" && git push)
+      # GitHub pauses scheduled workflows after 60 days without repo activity.
+      # Re-enabling the workflow through the API counts as activity and keeps it running.
+      - name: Keep the schedule alive
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/contributions.yml/enable"
