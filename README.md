@@ -6,7 +6,7 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 
 ## Apps I've shipped
 
-- [Upscaly](https://upscaly.shayxo.dev): AI photo upscaling that runs entirely on your device ([Android](https://play.google.com/store/apps/details?id=com.wexpa.upscaly.mobile) · [Windows](https://apps.microsoft.com/detail/9NFFHP49BVDT))
+- [Upscaly](https://upscaly.shayxo.dev): AI photo upscaling that runs entirely on your device
 - [Medly](https://play.google.com/store/apps/details?id=com.medly.reminder): pill reminders with prescription scanning
 - [EyeIQ](https://play.google.com/store/apps/details?id=com.eyeiq.visiontest): eyesight and vision tests
 - [UrduCanvas](https://play.google.com/store/apps/details?id=com.webscare.urducanvas): Urdu design editor
