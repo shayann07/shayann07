@@ -1,0 +1,45 @@
+name: Update contributions
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild the list of merged pull requests
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER: ${{ github.repository_owner }}
+          EXCLUDE_OWNERS: "shayann07 webscarepk"
+        run: |
+          gh search prs --author "$USER" --merged --limit 100 \
+            --json repository,number,title,url,closedAt > prs.json
+          python3 - <<'PY'
+          import json, os, re
+          exclude = set(os.environ["EXCLUDE_OWNERS"].split())
+          prs = [p for p in json.load(open("prs.json"))
+                 if p["repository"]["nameWithOwner"].split("/")[0] not in exclude]
+          prs.sort(key=lambda p: p["closedAt"], reverse=True)
+          lines = []
+          for p in prs[:5]:
+              title = re.sub(r"\s*\(#\d+\)$", "", p["title"])
+              lines.append(f'- [{p["repository"]["nameWithOwner"]}#{p["number"]}]({p["url"]}): {title}')
+          readme = open("README.md", encoding="utf-8").read()
+          block = "<!-- contributions start -->\n" + "\n".join(lines) + "\n<!-- contributions end -->"
+          readme = re.sub(r"<!-- contributions start -->.*?<!-- contributions end -->", block, readme, flags=re.S)
+          open("README.md", "w", encoding="utf-8").write(readme)
+          PY
+          rm prs.json
+      - name: Commit if changed
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Update contributions" && git push)
