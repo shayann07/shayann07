@@ -16,6 +16,7 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 ## Recent contributions
 
 <!-- contributions start -->
+- [arrow-kt/arrow#3977](https://github.com/arrow-kt/arrow/pull/3977): Pass optional accumulated value to recovery handler in Ior
 - [cashapp/molecule#796](https://github.com/cashapp/molecule/pull/796): Add NodeJsFrameClock for Kotlin/JS Node.js runtime
 - [lysine-dev/okhttp#9776](https://github.com/lysine-dev/okhttp/pull/9776): Wrap HTTP resolution errors in UnknownHostException in DnsOverHttps
 - [chrisbanes/haze#1387](https://github.com/chrisbanes/haze/pull/1387): Provide Desktop window identity via LocalAwtWindow
