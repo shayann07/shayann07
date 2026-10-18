@@ -16,11 +16,11 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 ## Recent contributions
 
 <!-- contributions start -->
+- [detekt/detekt#9773](https://github.com/detekt/detekt/pull/9773): Fix false positives in closeable usage rule
+- [lysine-dev/okhttp#9778](https://github.com/lysine-dev/okhttp/pull/9778): Prevent NPE on Android when handshake server names are null
 - [kotest/kotest#6243](https://github.com/kotest/kotest/pull/6243): Return typed instance from class-based type assertions
 - [patrykandpatrick/vico#1625](https://github.com/patrykandpatrick/vico/pull/1625): fix(compose): format numbers consistently across platforms
 - [arrow-kt/arrow#3977](https://github.com/arrow-kt/arrow/pull/3977): Pass optional accumulated value to recovery handler in Ior
-- [cashapp/molecule#796](https://github.com/cashapp/molecule/pull/796): Add NodeJsFrameClock for Kotlin/JS Node.js runtime
-- [lysine-dev/okhttp#9776](https://github.com/lysine-dev/okhttp/pull/9776): Wrap HTTP resolution errors in UnknownHostException in DnsOverHttps
 <!-- contributions end -->
 
 **Elsewhere:** [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
