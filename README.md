@@ -16,11 +16,11 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 ## Recent contributions
 
 <!-- contributions start -->
+- [Kotlin/dataframe#2123](https://github.com/Kotlin/dataframe/pull/2123): Fixed `ColumnKind` resolution for `Nothing` and `Nothing?` columns
 - [slackhq/circuit#2914](https://github.com/slackhq/circuit/pull/2914): Prevent crash during Activity destruction
 - [detekt/detekt#9773](https://github.com/detekt/detekt/pull/9773): Fix false positives in closeable usage rule
 - [lysine-dev/okhttp#9778](https://github.com/lysine-dev/okhttp/pull/9778): Prevent NPE on Android when handshake server names are null
 - [kotest/kotest#6243](https://github.com/kotest/kotest/pull/6243): Return typed instance from class-based type assertions
-- [patrykandpatrick/vico#1625](https://github.com/patrykandpatrick/vico/pull/1625): fix(compose): format numbers consistently across platforms
 <!-- contributions end -->
 
 **Elsewhere:** [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
