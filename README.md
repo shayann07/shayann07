@@ -17,10 +17,6 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 
 <!-- contributions start -->
 - [Kotlin/multik#357](https://github.com/Kotlin/multik/pull/357): fix: preserve array dtype on empty filter and transform operations
-- [Kotlin/dataframe#2123](https://github.com/Kotlin/dataframe/pull/2123): Fixed `ColumnKind` resolution for `Nothing` and `Nothing?` columns
-- [kotest/kotest#6243](https://github.com/kotest/kotest/pull/6243): Return typed instance from class-based type assertions
-- [patrykandpatrick/vico#1625](https://github.com/patrykandpatrick/vico/pull/1625): fix(compose): format numbers consistently across platforms
-- [arrow-kt/arrow#3977](https://github.com/arrow-kt/arrow/pull/3977): Pass optional accumulated value to recovery handler in Ior
 <!-- contributions end -->
 
 **Elsewhere:** [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
