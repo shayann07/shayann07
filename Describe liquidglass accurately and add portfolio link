@@ -2,7 +2,7 @@
 
 Kotlin Multiplatform developer from Pakistan. I build apps that share their logic and UI across Android, iOS and desktop with Compose Multiplatform, and lately I've been spending a lot of time on graphics and shaders.
 
-My main open-source project is [liquidglass](https://github.com/shayann07/liquidglass), a Liquid Glass effect for Compose: real refraction, dispersion and rim lighting in one shader, applied with a single modifier.
+My main open-source project is [liquidglass](https://github.com/shayann07/liquidglass): Apple's iOS 26 Liquid Glass for every stack that isn't iOS. One production shader, generated from a single source and checked across stacks in CI, running on Compose Multiplatform (Android, desktop, web), a framework-agnostic web component, React Native, Flutter and .NET. The material and its motion are fitted to iOS screen recordings and scored frame by frame rather than tuned by eye. Published on Maven Central, npm and NuGet.
 
 ## Apps I've shipped
 
@@ -19,4 +19,4 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 
 <!-- contributions end -->
 
-**Elsewhere:** [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
+**Elsewhere:** [Portfolio](https://www.shayxo.dev) · [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
