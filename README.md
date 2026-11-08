@@ -16,7 +16,7 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 ## Recent contributions
 
 <!-- contributions start -->
-- [Kotlin/multik#357](https://github.com/Kotlin/multik/pull/357): fix: preserve array dtype on empty filter and transform operations
+
 <!-- contributions end -->
 
 **Elsewhere:** [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
