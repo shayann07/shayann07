@@ -16,11 +16,11 @@ My main open-source project is [liquidglass](https://github.com/shayann07/liquid
 ## Recent contributions
 
 <!-- contributions start -->
+- [apollographql/apollo-kotlin#7046](https://github.com/apollographql/apollo-kotlin/pull/7046): Fix publishMarkers path failure on Windows
+- [apollographql/apollo-kotlin#7038](https://github.com/apollographql/apollo-kotlin/pull/7038): Add @DslMarker to Gradle plugin DSL
 - [cashapp/molecule#797](https://github.com/cashapp/molecule/pull/797): Prevent deadlock when dispatching snapshot notifications
 - [detekt/detekt#9774](https://github.com/detekt/detekt/pull/9774): Add rule to check matching fields in equals and hashCode
 - [Kotlin/multik#357](https://github.com/Kotlin/multik/pull/357): fix: preserve array dtype on empty filter and transform operations
-- [lysine-dev/okio#1878](https://github.com/lysine-dev/okio/pull/1878): Avoid traversing symlinks when symlink following is disabled
-- [Kotlin/dataframe#2123](https://github.com/Kotlin/dataframe/pull/2123): Fixed `ColumnKind` resolution for `Nothing` and `Nothing?` columns
 <!-- contributions end -->
 
 **Elsewhere:** [Portfolio](https://www.shayxo.dev) · [Email](mailto:hello@shayxo.dev) · [LinkedIn](https://www.linkedin.com/in/shayann07/)
