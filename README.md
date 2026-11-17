@@ -2,7 +2,9 @@
 
 Kotlin Multiplatform developer from Pakistan. I build apps that share their logic and UI across Android, iOS and desktop with Compose Multiplatform, and lately I've been spending a lot of time on graphics and shaders.
 
-My main open-source project is [liquidglass](https://github.com/shayann07/liquidglass): Apple's iOS 26 Liquid Glass for every stack that isn't iOS. One production shader, generated from a single source and checked across stacks in CI, running on Compose Multiplatform (Android, desktop, web), a framework-agnostic web component, React Native, Flutter and .NET. The material and its motion are fitted to iOS screen recordings and scored frame by frame rather than tuned by eye. Published on Maven Central, npm and NuGet.
+I have two open-source projects. The first is [liquidglass](https://github.com/shayann07/liquidglass): Apple's iOS 26 Liquid Glass for every stack that isn't iOS. One production shader, generated from a single source and checked across stacks in CI, running on Compose Multiplatform (Android, desktop, web), a framework-agnostic web component, React Native, Flutter and .NET. The material and its motion are fitted to iOS screen recordings and scored frame by frame rather than tuned by eye. Published on Maven Central, npm and NuGet.
+
+The second is [antigravity-computer-use](https://github.com/shayann07/antigravity-computer-use), the computer use skill for Google Antigravity. Type `/computer-use` and the agent sees the screen, reads each app's accessibility tree and drives real apps on Windows and macOS with the real mouse and keyboard, through native helpers that ship as signed releases. Esc stops it at once. MIT licensed. Site: [computeruse.shayxo.dev](https://computeruse.shayxo.dev).
 
 ## Apps I've shipped
 
